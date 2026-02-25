@@ -462,6 +462,7 @@ Key insight: These observation stations **do not necessarily belong to the same 
 
 - **Forward observation stations of extra-solar civilizations** — Near-field extensions of long-range observation capabilities (cross-references 4.3).
 - **Monitoring facilities left behind by ancient Martian civilizations** — Automated legacy systems that continue operating after civilizational evacuation (cross-references 4.5).
+- **Orbital or atmospheric facilities left behind by ancient Venus civilizations** — Observational legacy systems remaining after the runaway greenhouse effect (cross-references 4.5b).
 - **Remote nodes of ancient Earth civilizations** — External monitoring networks established by underground civilizations within the solar system (cross-references 4.6).
 - **Non-biological automated sentinel systems** — Von Neumann probes or AI-driven independent observation networks (cross-references 4.7).
 
@@ -477,6 +478,14 @@ This model positions 4.4 as a **cross-referencing hub** within the entire classi
 ### 4.5 Ancient Martian Civilization Remnant Model
 
 Assuming Mars produced a civilization during its early habitable window, which was subsequently destroyed or migrated due to environmental catastrophe. See Part IV, Chapter VI for details.
+
+### 4.5b Ancient Venus Civilization Remnant Model
+
+Assuming Venus produced life or even civilization during its early habitable window, which was subsequently destroyed or forced to migrate due to a runaway greenhouse effect. Venus's habitable window may have lasted over 2 billion years (approximately 700 million to 3 billion years ago), far exceeding Mars's 500 million to 1 billion years, giving it a unique position in the statistical probability of civilization formation.
+
+Key difference from the Mars model: Venus's runaway greenhouse effect rendered its surface environment (462°C, 90 atm) completely destructive to all solid-state remnants. However, a habitable zone exists at 50–60 km altitude in Venus's atmosphere where temperature (0–60°C) and pressure (~1 atm) approximate Earth's surface conditions. This provides derivation space for a survival pathway that neither the Earth nor Mars hypotheses can cover — the **atmospheric habitation model**.
+
+See Part IV, Chapter VI-b for details.
 
 ### 4.6 Ancient Earth Civilization Underground Continuation Model
 
@@ -593,6 +602,100 @@ If Martian civilization possessed interplanetary travel capabilities, Earth is t
 - Advanced civilization propulsion technology could drastically reduce this travel time.
 
 The migration time window may have been approximately 3–3.5 billion years ago, when Earth already had primitive life but had not yet produced complex organisms.
+
+---
+
+## VI-b. Ancient Venus Civilization Hypothesis
+
+### 6b.1 Early Venus Habitability
+
+NASA GISS climate models (Way et al., 2016) indicate that Venus may have possessed the following conditions approximately 700 million to 3 billion years ago:
+
+- **Liquid water oceans** — Models project that when early Venus had a slower rotation rate, atmospheric circulation could maintain moderate surface temperatures (approximately 20–50°C), sufficient to support stable liquid water bodies.
+- **Thick but non-runaway atmosphere** — Early Venus atmospheric CO₂ concentrations may not yet have triggered the positive feedback runaway.
+- **Lower solar irradiance** — The early Sun's luminosity was approximately 70–85% of its current level, reducing the initial pressure for greenhouse runaway.
+- **Earth-similar volume and gravity** — Venus's mass is 81.5% of Earth's, with surface gravity approximately 90% of Earth's, posing no fundamental constraints on biological evolution.
+
+This habitable window may have lasted over **2 billion years** — far exceeding Mars's 500 million to 1 billion years. By Earth's standards, this timeframe is sufficient to support the complete evolutionary trajectory from single-celled organisms to complex multicellular life.
+
+### 6b.2 Civilization Formation Time Window
+
+Comparison of Venus and Mars habitable windows:
+
+| Parameter | Mars | Venus |
+|-----------|------|-------|
+| Habitable window duration | ~500M–1B years | Possibly ~2B+ years |
+| Habitable period | 3.5–4.0 billion years ago | ~700M–3B years ago |
+| Cause of habitability loss | Magnetic field loss → atmospheric erosion | CO₂ positive feedback → runaway greenhouse |
+| Speed of habitability loss | Gradual (hundreds of millions of years) | Potentially abrupt (millions to tens of millions of years) |
+
+Venus's longer habitable window implies: if life emerged on Venus, the statistical probability of its evolution to complex life or even intelligent life exceeds that of Mars.
+
+### 6b.3 Runaway Greenhouse Effect & Civilization Response
+
+The mechanism by which Venus lost its habitability — the Runaway Greenhouse Effect — has fundamentally different characteristics from Mars's atmospheric loss:
+
+- **Potentially faster** — Once positive feedback initiates, atmospheric temperature can climb from temperate to hundreds of degrees within millions of years.
+- **Greater irreversibility** — Once CO₂ is released from carbonate rocks, there is no reverse deposition mechanism.
+- **Complete surface destruction** — The current Venus surface temperature of 462°C and pressure of 90 atm would completely dissolve any solid-state civilization remnants.
+
+If Venus civilization once existed, its possible responses to the runaway greenhouse effect:
+
+- **Complete extinction** — Technological level insufficient to cope with global atmospheric runaway.
+- **Atmospheric migration** — Relocating to the habitable zone in the upper atmosphere (50–60 km altitude).
+- **Interplanetary migration** — Migrating to Earth or Mars.
+- **Orbital migration** — Establishing Venus orbital stations or Lagrange point facilities.
+
+### 6b.4 Atmospheric Habitation Model
+
+A unique environmental band exists at 50–60 km altitude in Venus's atmosphere:
+
+| Parameter | Value | Comparison with Earth Surface |
+|-----------|-------|-------------------------------|
+| Temperature | 0–60°C | Comparable |
+| Pressure | ~0.4–1 atm | Comparable |
+| Gravity | 8.87 m/s² | 90% of Earth |
+| Radiation shielding | Dense atmosphere | Superior to Earth |
+
+This environmental band represents the only **non-solid-surface civilization survival model** within the hypothesis framework.
+
+If a civilization possesses:
+
+- **Buoyant structure engineering** — Exploiting the density difference between Venus's atmospheric composition (primarily CO₂) and breathable gases (N₂/O₂); a nitrogen-oxygen gas mixture is naturally buoyant in Venus's atmosphere.
+- **Sulfuric acid-resistant materials** — Venus's cloud layer contains concentrated sulfuric acid droplets, requiring highly corrosion-resistant hull materials.
+- **Closed-loop ecological systems** — Maintaining complete life support cycles within buoyant structures.
+- **Atmospheric chemical energy harvesting** — Utilizing chemical gradients in Venus's atmosphere as an energy source.
+
+Then permanent atmospheric habitation does not violate known physical laws.
+
+The unique derivation value of this model: it provides a civilization survival form that neither the Mars nor Earth hypotheses can cover — a **floating civilization**. In this form, a civilization leaves no solid surface remnants whatsoever, rendering it completely invisible in the archaeological sense.
+
+### 6b.5 Venus–Earth Migration Theory
+
+If Venus civilization possessed interplanetary travel capabilities, Earth is the nearest habitable target:
+
+- The closest Venus-Earth distance is approximately 38 million kilometers (closer than the Mars-Earth minimum of 55 million kilometers).
+- The migration time window for Venus civilization may have been approximately 700 million years ago (when the runaway greenhouse effect initiated), at which point Earth already hosted complex multicellular life.
+- If migration occurred at an earlier period (1–2 billion years ago), only prokaryotic and simple eukaryotic life existed on Earth.
+
+Potential interweaving of Venus and Mars migration theories:
+
+- If both Mars and Venus produced civilizations at different epochs, Earth may serve as a common receiving node for two independent migration paths.
+- This further strengthens the Part VI derivation of "multi-source model ensembles" — "alien" phenomena on Earth may contain remnants of different planetary origins.
+
+### 6b.6 Falsifiability & Observational Constraints
+
+The Venus hypothesis faces more stringent verification challenges than the Mars hypothesis:
+
+- **Surface remnants are completely inaccessible** — The 462°C, 90 atm environment limits any lander's lifespan to extremely short durations (the Soviet Venera series survived a maximum of approximately 127 minutes).
+- **Geological timescale masking is more thorough** — The Venus surface underwent a global volcanic resurfacing event approximately 300–500 million years ago, erasing all earlier geological records.
+- **Atmospheric habitation structures are difficult to detect from orbit** — If buoyant structures exist, their scale and characteristics may be indistinguishable from cloud features.
+
+However, the following observation pathways remain viable:
+
+- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species (e.g., the phosphine controversy, Greaves et al., 2020).
+- **Long-term Venus orbital monitoring** — Searching for artificial structures or regular movement patterns within the atmosphere.
+- **Venus surface radar penetration** (e.g., NASA VERITAS, ESA EnVision missions) — Searching for anomalous subsurface structures, though constrained by the high-temperature, high-pressure environment.
 
 ---
 
@@ -746,6 +849,7 @@ This assumption is extremely unlikely to hold, for the following reasons:
 3. **Inorganic intelligence systems** — Self-replicating probes or AI-driven observation networks.
 4. **Biological-mechanical hybrids** — Deep fusion of organic life and mechanical systems.
 5. **Martian migration descendants** — Continuation of ancient Martian civilization migrated to Earth.
+6. **Venus migration descendants** — Continuation of ancient Venus civilization migrated to Earth following the runaway greenhouse effect.
 
 In the human context, these radically different entities are compressed into the single term "alien."
 
@@ -759,6 +863,7 @@ Different origin pathways will produce radically different civilization morpholo
 | Ancient Earth civilization | Possibly biologically related to humans | Underground engineering technology | Possible intermittent contact |
 | AI probes | Non-biological | Self-replication capability | Passive observation |
 | Martian migration | Biology adapted to Martian environment | Interplanetary technology | May have integrated into Earth's environment |
+| Venus migration | Possibly adapted to atmospheric habitation | Buoyant engineering / interplanetary technology | May have integrated into Earth's environment |
 
 ### 9.4 Human Cognitive Projection
 
@@ -791,7 +896,15 @@ When any one of these three conditions is destroyed, civilization does not merel
 
 ### 10.2 Long-Period Model for Cross-Galactic Deployment
 
-On astronomical timescales, the formation, destruction, and reconstitution of stars and planets are normative processes. Mars, Earth, and Venus have each occupied different habitability windows at different epochs.
+On astronomical timescales, the formation, destruction, and reconstitution of stars and planets are normative processes. The habitability windows of planets within the solar system exhibit a temporal sequence:
+
+| Planet | Habitable Window | Duration | Mechanism of Habitability Loss |
+|--------|-----------------|----------|-------------------------------|
+| Mars | ~3.5–4.0 billion years ago | ~500M–1B years | Magnetic field loss → atmospheric erosion |
+| Venus | ~700M–3B years ago | Possibly ~2B+ years | CO₂ positive feedback → runaway greenhouse |
+| Earth | ~3.8B years ago to present | ~3.8B years (ongoing) | Future solar luminosity increase will terminate habitability |
+
+This temporal sequence implies a **planetary relay deployment logic**: civilization (or life) can deploy or migrate sequentially among solar system planets as habitability windows shift. Mars lost habitability first, Venus second, and Earth is currently the only node still within its habitable window.
 
 If civilization is understood as a cross-galactic deployment project, its construction timeline spans tens of thousands to millions of years. This is not a single-generation plan but a long-term project encompassing an entire species.
 
@@ -886,6 +999,23 @@ Re-examining the Mars civilization hypothesis from Part IV, Chapter VI within th
 - **Earth may have served as the backup node following the failure of the Mars node.**
 
 However, if cross-galactic communication and energy networks were severed during the deployment process, the Earth node may never have completed initialization — leaving behind only biological-level seeding rather than a complete civilizational transfer.
+
+### 11.4b Venus Phase: Possible Mid-Period Deployment Node
+
+Re-examining the Venus civilization hypothesis from Part IV, Chapter VI-b within the cross-galactic deployment framework:
+
+- **Venus's habitable window (700 million to 3 billion years ago) falls chronologically after Mars (3.5–4 billion years ago) but before the emergence of Earth civilization.** This positions Venus as a potential relay node between Mars and Earth.
+- The choices facing Venus civilization (if it existed) in the face of the runaway greenhouse effect:
+  - Migrating to the upper atmospheric habitable zone (atmospheric habitation model)
+  - Transferring deployment to Earth
+  - Establishing Venus orbital facilities as observation and relay stations
+- **Earth may simultaneously serve as the common backup target following the failure of both the Mars and Venus nodes.**
+
+The Venus phase adds a key derivation to the deployment framework:
+
+- If Mars civilization migrated to Venus 3.5 billion years ago (when Venus was still within its habitable window), then Venus may represent the first backup node for Martian civilization.
+- When Venus's habitable window also closed, civilization faced a secondary migration, ultimately directed toward Earth.
+- This forms a **Mars → Venus → Earth** three-stage deployment pathway, or alternatively a **dual-source convergence model** where Mars and Venus each migrated to Earth independently.
 
 ### 11.5 Earth Phase: Biological Continuity & Civilization Rebuild
 
@@ -991,6 +1121,15 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 
 **Determination criterion**: If Mars and lunar subsurface exploration reveals no artificial structures, then relevant base models can be weakened.
 
+### 13.7 Venus Atmospheric & Surface Exploration
+
+- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species in the atmosphere, particularly molecules that should not stably exist under Venus atmospheric conditions (e.g., phosphine, Greaves et al., 2020).
+- **Long-term Venus upper atmosphere monitoring** — Using orbiters to search for anomalous structures, regular movement patterns, or non-natural reflective features at 50–60 km altitude.
+- **Venus surface radar penetration imaging** — Utilizing synthetic aperture radar (e.g., NASA VERITAS mission's X-band SAR, ESA EnVision mission's VenSAR) to penetrate cloud cover and search for possible anomalous subsurface structures.
+- **Venus atmospheric entry probes** — Deploying buoyant probes capable of long-duration residence in the upper atmosphere for direct sampling and analysis of atmospheric composition and particulate structures.
+
+**Determination criterion**: If Venus atmospheric chemical analysis reveals no non-natural compounds and long-term upper atmosphere monitoring detects no artificial structural features, then the Venus atmospheric habitation model can be weakened. If Venus surface radar penetration finds no artificial structural traces beneath the global resurfacing layer, then the ancient Venus surface civilization model can be further weakened.
+
 ---
 
 ## Structural Summary
@@ -1003,6 +1142,7 @@ If advanced civilizations exist, their key technological breakthroughs will conc
 4. **Controllable electromagnetic and thermal signatures** — Metamaterials and superconducting shielding achieve physical-level stealth.
 5. **Computing capability transcending classical limits** — Topological quantum computation makes complex system simulation and optimization possible.
 6. **Cross-galactic deployment architecture** — Transitioning civilization from a single-point system to multi-node redundancy, ensuring that planetary-scale catastrophe no longer equates to civilizational reset.
+7. **Planetary relay deployment** — The temporal sequence of habitability windows among solar system planets (Mars → Venus → Earth) provides civilization with a natural relay pathway for interplanetary migration; Venus's extended habitable window and atmospheric habitation potential expand the diversity of civilization survival forms.
 
 These derivations are built upon extensions of known physical theories, not violations of fundamental laws.
 
@@ -1012,6 +1152,7 @@ These derivations are built upon extensions of known physical theories, not viol
 - Negative energy density and vacuum engineering
 - Macroscopic quantum field stabilization technology
 - Physical implementation of cross-generational knowledge preservation mechanisms
+- Materials and energy derivations for Venus atmospheric habitation engineering
 
 The overall model progressively shifts from narrative-level to engineering- and physics-derivable structures.
 
