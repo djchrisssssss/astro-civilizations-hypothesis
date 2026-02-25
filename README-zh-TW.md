@@ -32,6 +32,20 @@
 
 ---
 
+## 共同創作
+
+本假說由以下 AI 模型與工具協助共同創作：
+
+**AI 模型：**
+- [GPT-5](https://openai.com/)（OpenAI）
+- [Claude Opus 4](https://anthropic.com/)（Anthropic）
+
+**工具：**
+- [OpenClaw](https://github.com/openclaw/openclaw) — AI 閘道器與代理人執行環境
+- [Claude Code](https://claude.ai/claude-code) — Anthropic 的代理人編程工具
+
+---
+
 ## 授權
 
 本作品以開放知識探索為目的分享。作者保留所有權利。

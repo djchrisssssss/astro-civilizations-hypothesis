@@ -32,6 +32,20 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 
 ---
 
+## Co-Created With
+
+This hypothesis was co-created with the assistance of AI models and tools:
+
+**AI Models:**
+- [GPT-5](https://openai.com/) (OpenAI)
+- [Claude Opus 4](https://anthropic.com/) (Anthropic)
+
+**Tools:**
+- [OpenClaw](https://github.com/openclaw/openclaw) — AI gateway & agent runtime
+- [Claude Code](https://claude.ai/claude-code) — Anthropic's agentic coding tool
+
+---
+
 ## License
 
 This work is shared for open intellectual exploration. All rights reserved by the author.
