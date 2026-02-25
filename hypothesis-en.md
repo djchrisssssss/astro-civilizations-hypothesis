@@ -468,6 +468,8 @@ Key insight: These observation stations **do not necessarily belong to the same 
 
 This model positions 4.4 as a **cross-referencing hub** within the entire classification framework: a single location within the solar system may simultaneously host facilities from multiple source civilizations, each operating independently with distinct objectives.
 
+It is worth noting that all the above sources represent **directed migration** pathways — civilizations consciously constructing, relocating, and deploying assets. However, the **Panspermia** mechanism discussed in Section 1.5 provides a parallel possibility: life may also have been transferred between planets within the solar system through natural mechanisms such as impact ejection and interplanetary drift, without any intentional agency. This means that any biological signatures analyzed in the subsequent planetary chapters must account for two source pathways — **directed migration and natural panspermia** — rather than presuming a single mechanism by default.
+
 #### Possible Locations & Corresponding Levels
 
 - **Lunar lava tubes** — L0–L2. Closest to Earth, ideal for real-time observation of terrestrial activity. Natural caves provide shielding from radiation and micrometeorites.
@@ -566,6 +568,8 @@ Geological evidence indicates that Mars possessed the following conditions appro
 
 This habitable window lasted approximately 500 million to 1 billion years — sufficient on Earth's timeline for evolution from single-celled to multi-cellular life.
 
+It must be emphasized that the origin of early Martian life admits two non-mutually-exclusive pathways: independent abiogenesis on Mars itself, or the Panspermia mechanism described in Section 1.5 — microorganisms from Earth or other bodies arriving on Mars via meteoritic transfer (and vice versa). Distinguishing between these two pathways is critical for the subsequent discussion of civilizational origins: if Martian life originated through natural panspermia, it may share a biochemical foundation with terrestrial life; if it arose independently, it may represent an entirely separate experiment in life.
+
 ### 6.2 Civilization Formation Time Window
 
 Earth took approximately 4 billion years from the origin of life to the emergence of intelligent civilization. Mars's habitable window was approximately 500 million to 1 billion years.
@@ -617,6 +621,8 @@ NASA GISS climate models (Way et al., 2016; Way & Del Genio, 2020) indicate that
 - **Earth-similar volume and gravity** — Venus's mass is 81.5% of Earth's, with surface gravity approximately 90% of Earth's, posing no fundamental constraints on biological evolution.
 
 This habitable window may have lasted over **2 billion years** — far exceeding Mars's 500 million to 1 billion years. By Earth's standards, this timeframe is sufficient to support the complete evolutionary trajectory from single-celled organisms to complex multicellular life.
+
+As with the Mars chapter (6.1), early Venus life may have originated through two pathways: independent local abiogenesis, or natural transfer from other bodies via the Panspermia mechanism (see Section 1.5). Notably, because Venus's orbital distance to Earth is shorter (approximately 0.28 AU at closest approach), the efficiency of interplanetary meteoritic transfer may be higher than that of the Mars–Earth pathway, giving panspermia a higher prior probability in the Venus scenario.
 
 ### 6b.2 Civilization Formation Time Window
 
@@ -713,6 +719,8 @@ Key question: **If an industrial civilization existed and perished 50 million ye
 - Sudden carbon emission events in the geological record (e.g., PETM) could be related to industrial activity.
 
 This is known as the **"Silurian Hypothesis"**, formally proposed in 2018 by NASA scientist Gavin Schmidt and astrophysicist Adam Frank.
+
+Furthermore, Panspermia (see Section 1.5) provides a third possible framework for the origin of terrestrial life: life on Earth may not have arisen entirely from independent local chemistry, but may incorporate biological components delivered from Mars, Venus, or other bodies via natural meteoritic transfer. If this pathway holds, there exists a deeper biochemical connection between the Martian (VI) and Venus (VI-b) civilization hypotheses discussed in preceding chapters and Earth's own biological history — life on different planets may share a common ancient ancestor encoded in the same genetic language.
 
 ### 7.2 Advanced Civilization Extinction on Earth
 
