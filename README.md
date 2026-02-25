@@ -1,8 +1,8 @@
 **[繁體中文版](./README-zh-TW.md)**
 
-# Planetary Relay Hypothesis
+# Cosmic Diaspora Hypothesis
 
-**行星接力假說**
+**宇宙播遷假說**
 
 A structured hypothesis framework exploring the statistical foundations of cosmic life, the energy and material thresholds of civilization evolution, and a rigorous multi-source classification model for extraterrestrial phenomena — grounded in physics, engineering feasibility, and falsifiable reasoning.
 

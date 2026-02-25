@@ -1,6 +1,6 @@
-# 行星接力假說
+# 宇宙播遷假說
 
-**Planetary Relay Hypothesis**
+**Cosmic Diaspora Hypothesis**
 
 *——宇宙生命擴散、文明演化與外星現象的結構分析框架*
 

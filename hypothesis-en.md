@@ -1,4 +1,4 @@
-# Planetary Relay Hypothesis
+# Cosmic Diaspora Hypothesis
 
 *— A Structural Analysis Framework on Cosmic Life Diffusion, Civilization Evolution, and Extraterrestrial Phenomena*
 
