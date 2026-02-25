@@ -28,7 +28,8 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 - **Part IV — Civilization Existence Models** — Extra-solar observers, ancient Martian civilization, ancient Earth civilization
 - **Part V — Base Engineering & Stealth Matrix** — Site selection, energy self-sufficiency, EM/thermal suppression
 - **Part VI — Cognitive Deconstruction** — "Alien" as semantic compression, multi-source model ensemble
-- **Part VII — Verifiable Observation Pathways** — Subsurface imaging, deep-sea scanning, gravitational anomaly monitoring
+- **Part VII — Cross-Galactic Mission Architecture & Human Positioning** — Deployment logic, civilization reset cycles, memory compression, human mission positioning
+- **Part VIII — Verifiable Observation Pathways** — Subsurface imaging, deep-sea scanning, gravitational anomaly monitoring
 
 ---
 
