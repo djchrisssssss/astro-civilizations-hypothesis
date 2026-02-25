@@ -71,7 +71,7 @@ This hypothesis does not claim "aliens exist" — it provides an analytical tool
 
 Stellar formation rates and planetary disk generation are natural processes of celestial evolution. Based on current observational data:
 
-- The Milky Way forms approximately 3 new stars per year.
+- The Milky Way's star formation rate is approximately 2 solar masses per year (corresponding to roughly 6–7 individual stars, most being low-mass red dwarfs).
 - Planetary system formation is a natural byproduct of the star formation process.
 - Over the universe's 13.8-billion-year history, the accumulated number of stars and planets is extraordinarily vast.
 
@@ -81,7 +81,7 @@ Planet formation is not a special event but a statistical norm of astrophysics.
 
 Based on exoplanet observation missions (e.g., Kepler Space Telescope, TESS):
 
-- The estimated number of Earth-like planets in the Milky Way reaches tens to hundreds of billions.
+- The estimated number of Earth-like planets in the Milky Way reaches billions to approximately 40 billion (depending on definitional scope and stellar types included).
 - Habitable Zone formation is a natural byproduct of orbital dynamics.
 - The probability of liquid water existence is statistically significant.
 
@@ -93,13 +93,13 @@ On cosmic timescales (10⁹ year scale):
 
 ### 1.3 Ubiquity of Organic Molecules in the Universe
 
-Over 200 organic molecules have been detected in the interstellar medium, including:
+Over 300 molecular species have been detected in the interstellar medium as of 2025 (the vast majority being organic), including:
 
-- Amino acid precursors (e.g., interstellar detection of glycine)
+- Amino acids and their precursors (e.g., glycine has been detected in the interstellar medium, Rivilla et al., 2025)
 - Polycyclic aromatic hydrocarbons (PAHs)
 - Alcohols, aldehydes, and nitrogen-containing organics
 
-Meteorite samples (e.g., Murchison meteorite) have yielded over 70 types of amino acids. This demonstrates that organic chemistry is a universal process throughout the cosmos, not a phenomenon unique to Earth.
+Meteorite samples (e.g., Murchison meteorite) have yielded over 90 types of amino acids (approximately 96 confirmed as of 2017). This demonstrates that organic chemistry is a universal process throughout the cosmos, not a phenomenon unique to Earth.
 
 ### 1.4 Extremophile Life Forms
 
@@ -109,7 +109,7 @@ Extremophiles on Earth have demonstrated that life can survive under the followi
 |-------------|-------------------|----------------------|
 | High Temperature | >120°C | Hyperthermophilic archaea (e.g., *Methanopyrus kandleri*) |
 | Low Temperature | <-20°C | Antarctic ice sheet microorganisms |
-| High Pressure | >1000 atm | Deep-sea hydrothermal vent organisms |
+| High Pressure | >1000 atm | Deep-sea trench organisms (e.g., Mariana Trench microbes) |
 | High Radiation | >5000 Gy | *Deinococcus radiodurans* |
 | High Salinity | Saturated brine | *Halobacterium* spp. |
 | Anoxic | Completely anaerobic | Methanogens |
@@ -142,7 +142,7 @@ A civilization's technological level is directly correlated with its energy mast
 
 | Level | Energy Scale | Human Reference Point |
 |-------|-------------|----------------------|
-| Type 0.7 | ~10¹⁷ W | Current human civilization |
+| Type 0.7 | ~10¹³ W | Current human civilization (~19 TW) |
 | Type I | ~10¹⁶–10¹⁷ W | Harnessing entire planetary energy output |
 | Type II | ~10²⁶ W | Harnessing entire stellar energy output |
 | Type III | ~10³⁶ W | Harnessing entire galactic energy output |
@@ -221,12 +221,12 @@ This derivation does not violate bioelectrochemical principles — it only requi
 - Highly stable superconducting biological interfaces
 - Biocompatible nanomaterials
 - Precise quantum-level signal control
-- Quantum entanglement communication channels (for long-range information transmission with zero electromagnetic leakage)
+- Quantum-secured communication channels (utilizing quantum key distribution to ensure communication security, paired with highly directional photon carriers, making signals practically undetectable by third parties)
 - Directed wireless energy transmission systems (microwave or laser energy beams)
 
 ---
 
-## III. Advanced Civilization Technology Derivation Model (Enhanced)
+## III. Advanced Civilization Technology Derivation Model
 
 ### 3.1 Compact Nuclear Fusion & Material Limits
 
@@ -346,17 +346,17 @@ If a civilization masters a mature combination of the above material technologie
 
 **Long-Range Energy & Information Transmission Networks:**
 
-Combining superconductor, quantum entanglement, and brain-computer interface technologies, advanced civilizations may build a completely covert long-range transmission infrastructure:
+Combining superconductor, quantum-secured communication, and brain-computer interface technologies, advanced civilizations may build a highly covert long-range transmission infrastructure:
 
 | Transmission Type | Technical Pathway | Human Detectability | Theoretical Basis |
 |-------------------|-------------------|-------------------|------------------|
-| Energy (short-range) | Magnetic resonance coupled wireless | Very low (near-field) | Existing human prototypes (Qi charging) |
+| Energy (short-range) | Inductive / resonance coupled wireless | Very low (near-field) | Existing human prototypes (Qi charging standard) |
 | Energy (long-range) | Directed microwave/laser energy beams | Low (narrow beam) | NASA space solar power research |
 | Energy (superconducting) | Zero-loss superconducting cable | Zero (underground/undersea) | Superconductor zero-resistance property |
 | Information (classical) | Metamaterial waveguide directed transmission | Very low (non-broadcast) | Metamaterial research |
-| Information (quantum) | Quantum entanglement channels | Zero (no EM signal) | Quantum mechanical non-locality |
+| Information (quantum-secured) | Quantum key distribution + highly directional photon channels | Very low (narrow-beam directional, unbreakable encryption) | Quantum no-cloning theorem |
 
-**Key derivation**: If information transmission uses quantum entanglement channels rather than electromagnetic waves, then humanity's SETI (Search for Extraterrestrial Intelligence) program is fundamentally incapable of intercepting such communications — **this provides a materials science explanation for the Fermi Paradox**: it is not that no civilizations are communicating, but that their communication modality is invisible on the electromagnetic spectrum.
+**Key derivation**: It must be noted that the no-communication theorem of quantum mechanics rigorously proves that quantum entanglement alone cannot transmit information — entanglement measurement outcomes appear completely random from the receiver's perspective, requiring a classical channel to complete information transfer. However, if an advanced civilization employs highly directional photon quantum channels (narrow beam, low power, non-broadcast), paired with quantum key distribution (QKD) ensuring unbreakable encryption, such communications would be practically extremely difficult for third parties to detect and decode — **this provides a communication technology explanation for the Fermi Paradox**: it is not that no civilizations are communicating, but that their communication modality possesses extreme directionality and encryption, making it practically difficult for humanity's SETI program to intercept.
 
 **Remote operation application derivations:**
 
@@ -386,7 +386,7 @@ When brain-computer interfaces, long-range energy transmission, and quantum info
 |--------------------------------------|-----------------------------------------------------|
 | Cities as nodes | Individuals as nodes |
 | Power grids transmit energy | Directed wireless + underground superconducting networks |
-| EM wave communication (detectable) | Quantum entanglement communication (undetectable) |
+| EM broadcast communication (easily detectable) | Directional quantum-secured communication (extremely difficult to detect) |
 | Centralized server computation | Biological brain distributed collaborative computation |
 | Physical movement to exchange information | Consciousness-level instant sharing |
 | Single-point failure can paralyze system | Any node can assume global functions |
@@ -609,7 +609,7 @@ The migration time window may have been approximately 3–3.5 billion years ago,
 
 ### 6b.1 Early Venus Habitability
 
-NASA GISS climate models (Way et al., 2016) indicate that Venus may have possessed the following conditions approximately 700 million to 3 billion years ago:
+NASA GISS climate models (Way et al., 2016; Way & Del Genio, 2020) indicate that Venus may have possessed the following conditions approximately 700 million to 3 billion years ago (some models suggest habitable conditions may have begun as early as ~4.2 billion years ago):
 
 - **Liquid water oceans** — Models project that when early Venus had a slower rotation rate, atmospheric circulation could maintain moderate surface temperatures (approximately 20–50°C), sufficient to support stable liquid water bodies.
 - **Thick but non-runaway atmosphere** — Early Venus atmospheric CO₂ concentrations may not yet have triggered the positive feedback runaway.
@@ -652,8 +652,8 @@ A unique environmental band exists at 50–60 km altitude in Venus's atmosphere:
 
 | Parameter | Value | Comparison with Earth Surface |
 |-----------|-------|-------------------------------|
-| Temperature | 0–60°C | Comparable |
-| Pressure | ~0.4–1 atm | Comparable |
+| Temperature | Approx. -10 to 75°C | Comparable (50–55 km most habitable) |
+| Pressure | ~0.2–1 atm | Comparable (~1 atm at 50 km, ~0.2 atm at 60 km) |
 | Gravity | 8.87 m/s² | 90% of Earth |
 | Radiation shielding | Dense atmosphere | Superior to Earth |
 
@@ -695,7 +695,7 @@ However, the following observation pathways remain viable:
 
 - **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species (e.g., the phosphine controversy, Greaves et al., 2020).
 - **Long-term Venus orbital monitoring** — Searching for artificial structures or regular movement patterns within the atmosphere.
-- **Venus surface radar penetration** (e.g., NASA VERITAS, ESA EnVision missions) — Searching for anomalous subsurface structures, though constrained by the high-temperature, high-pressure environment.
+- **Venus surface radar penetration** (e.g., NASA VERITAS [facing budget uncertainty], ESA EnVision [launch targeted for 2031] missions) — Searching for anomalous subsurface structures, though constrained by the high-temperature, high-pressure environment.
 
 ---
 
@@ -749,7 +749,7 @@ Energy derivation: If a civilization possesses controlled nuclear fusion, an Ant
 
 Structural advantages of the ocean floor as a base location:
 
-- **Extreme exploration difficulty in high-pressure deep-sea zones** — Human direct exploration coverage of the deep sea (>6000m) is less than 5%.
+- **Extreme exploration difficulty in high-pressure deep-sea zones** — Human direct visual observation coverage of the deep seafloor is approximately 0.001% (2025 *Science Advances* study), with exploration of the hadal zone (>6000m) even more sparse.
 - **Excellent sound attenuation** — The acoustic absorption properties of seawater naturally shield internal acoustic activity.
 - **Electromagnetic absorption** — Seawater's high absorption rate for electromagnetic waves makes base electromagnetic signatures difficult to detect.
 - **Hydrothermal vents** — Can serve as natural energy sources and chemical feedstock origins.
@@ -953,7 +953,7 @@ When cross-galactic deployment remains incomplete, the following cosmic-scale ev
 |----------------|-----------|--------------|-------------------|
 | Gamma-ray burst (GRB) | High-energy radiation released by nearby stellar collapse | Thousands of light-years | Possible link to the Ordovician mass extinction |
 | Extreme solar storm | Stellar superflare | Entire stellar system | A thousandfold version of the Carrington Event (1859) |
-| Planetary chain impact | Asteroid belt perturbation triggering cascading impacts | Planetary scale | Late Heavy Bombardment |
+| Planetary chain impact | Asteroid belt perturbation triggering cascading impacts | Planetary scale | Hypothesized Late Heavy Bombardment (currently debated) |
 | Severe orbital shift | Gravitational perturbation from nearby stars | Stellar system | Long-period orbital instabilities |
 | Supernova explosion | Nearby massive star detonation | Tens of light-years | Pliocene seabed iron-60 deposits |
 
@@ -985,7 +985,7 @@ After civilizational severance, information survival follows a hierarchical stru
 
 **Key observation**: Myths across globally distinct cultures exhibit striking structural similarities — flood narratives, descending sky gods, memories of lost civilizations. These may not be mere cultural coincidence but rather **compressed encodings of the same civilizational severance event**, independently preserved as fragments among different surviving populations.
 
-Human DNA also contains incompletely understood "genetic bottleneck" events (e.g., the population crash to a few thousand individuals following the Toba supervolcano eruption approximately 70,000 years ago). These bottlenecks may mark temporal nodes of civilization reset.
+Human DNA also contains incompletely understood "genetic bottleneck" events (e.g., the Toba supervolcano eruption approximately 74,000 years ago and the contemporaneous genetic bottleneck event (the causal link between the two remains debated; the bottleneck may instead stem from founder effects during the Out-of-Africa migration)). These bottlenecks may mark temporal nodes of civilization reset.
 
 ### 11.4 Mars Phase: Possible Early Deployment Node
 
@@ -1023,7 +1023,7 @@ If Earth is indeed a receiving node from a cross-galactic deployment, then human
 
 Observations supporting this inference:
 
-- **The anomalous acceleration of human civilization**: From the agricultural revolution to space travel in approximately 10,000 years — on cosmic timescales, this is virtually explosive.
+- **The anomalous acceleration of human civilization**: From the agricultural revolution to space travel in approximately 12,000 years — on cosmic timescales, this is virtually explosive.
 - **Genetic bottleneck events**: Multiple episodes in human history where the population crashed to extremely small numbers.
 - **Structural similarities in cross-cultural mythology**: Themes of "lost civilizations," "departing gods," and "great floods" appear independently across the globe.
 - **The over-engineering of the brain**: The computational capacity of the human brain far exceeds basic survival requirements — an anomaly under natural selection, unless the brain was designed (or selected) for more complex tasks.
@@ -1042,7 +1042,7 @@ If so, the core mission of the current phase is not merely economic development 
 |---------|-----------|-----------------|
 | Establish multi-planetary survival capability | Self-sustaining colonies on Mars/Moon | Early exploration phase (SpaceX, Artemis) |
 | Enhance planetary-scale risk resilience | Asteroid defense + climate stabilization | Initial technology validation (DART mission) |
-| Establish cross-generational information preservation systems | Knowledge storage on ten-thousand-year timescales | Conceptual phase (Long Now Foundation) |
+| Establish cross-generational information preservation systems | Knowledge storage on ten-thousand-year timescales | Construction phase (Long Now Foundation's 10,000-Year Clock under physical construction in Texas) |
 | Transition civilization from single-point to multi-node | Distributed civilization architecture | Theoretical phase |
 
 ### 12.3 Critical Conditions for Civilization Survival
@@ -1087,7 +1087,7 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 
 ### 13.2 Deep-Sea Scanning
 
-- **Comprehensive ocean floor topographic scanning** — Current global high-resolution seabed mapping coverage is less than 25%.
+- **Comprehensive ocean floor topographic scanning** — As of 2025, global high-resolution seabed mapping coverage is approximately 27% (Seabed 2030 project data), with over 70% of the ocean floor remaining unmapped.
 - **Deep-sea sonar anomaly analysis** — Searching for non-natural echo patterns.
 - **Deep-sea thermal anomaly monitoring** — Local temperature anomalies exceeding natural geothermal models.
 
@@ -1125,7 +1125,7 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 
 - **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species in the atmosphere, particularly molecules that should not stably exist under Venus atmospheric conditions (e.g., phosphine, Greaves et al., 2020).
 - **Long-term Venus upper atmosphere monitoring** — Using orbiters to search for anomalous structures, regular movement patterns, or non-natural reflective features at 50–60 km altitude.
-- **Venus surface radar penetration imaging** — Utilizing synthetic aperture radar (e.g., NASA VERITAS mission's X-band SAR, ESA EnVision mission's VenSAR) to penetrate cloud cover and search for possible anomalous subsurface structures.
+- **Venus surface radar penetration imaging** — Utilizing synthetic aperture radar (e.g., NASA VERITAS mission's X-band SAR [planned, facing budget uncertainty], ESA EnVision mission's VenSAR [entered construction phase, launch targeted for 2031]) to penetrate cloud cover and search for possible anomalous subsurface structures.
 - **Venus atmospheric entry probes** — Deploying buoyant probes capable of long-duration residence in the upper atmosphere for direct sampling and analysis of atmospheric composition and particulate structures.
 
 **Determination criterion**: If Venus atmospheric chemical analysis reveals no non-natural compounds and long-term upper atmosphere monitoring detects no artificial structural features, then the Venus atmospheric habitation model can be weakened. If Venus surface radar penetration finds no artificial structural traces beneath the global resurfacing layer, then the ancient Venus surface civilization model can be further weakened.
