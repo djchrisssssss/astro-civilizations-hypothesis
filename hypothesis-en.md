@@ -30,7 +30,7 @@ This hypothesis attempts to answer the following core questions:
 This hypothesis adheres to the following constraints:
 
 - **No violation of known physical laws**: All derivations are built upon reasonable extensions of the existing physics framework.
-- **Engineering feasibility orientation**: Technological assumptions must have precursor foundations in current scientific research (e.g., ITER, IBM quantum processors, metamaterial research).
+- **Engineering feasibility orientation**: Technological assumptions must have precursor foundations in current scientific research (e.g., ITER [10], IBM quantum processors [11], metamaterial research).
 - **Incremental extrapolation principle**: Deriving possible evolutionary paths thousands to millions of years beyond current human technological levels.
 
 ### 0.3 Statistical Cosmology Framework
@@ -71,7 +71,7 @@ This hypothesis does not claim "aliens exist" — it provides an analytical tool
 
 Stellar formation rates and planetary disk generation are natural processes of celestial evolution. Based on current observational data:
 
-- The Milky Way's star formation rate is approximately 2 solar masses per year (corresponding to roughly 6–7 individual stars, most being low-mass red dwarfs).
+- The Milky Way's star formation rate is approximately 2 solar masses per year (corresponding to roughly 6–7 individual stars, most being low-mass red dwarfs) [1].
 - Planetary system formation is a natural byproduct of the star formation process.
 - Over the universe's 13.8-billion-year history, the accumulated number of stars and planets is extraordinarily vast.
 
@@ -79,9 +79,9 @@ Planet formation is not a special event but a statistical norm of astrophysics.
 
 ### 1.2 Earth-like Planets & Habitable Zone Distribution
 
-Based on exoplanet observation missions (e.g., Kepler Space Telescope, TESS):
+Based on exoplanet observation missions (e.g., Kepler Space Telescope [2], TESS [3]):
 
-- The estimated number of Earth-like planets in the Milky Way reaches billions to approximately 40 billion (depending on definitional scope and stellar types included).
+- The estimated number of Earth-like planets in the Milky Way reaches billions to approximately 40 billion (depending on definitional scope and stellar types included) [4].
 - Habitable Zone formation is a natural byproduct of orbital dynamics.
 - The probability of liquid water existence is statistically significant.
 
@@ -95,11 +95,11 @@ On cosmic timescales (10⁹ year scale):
 
 Over 300 molecular species have been detected in the interstellar medium as of 2025 (the vast majority being organic), including:
 
-- Amino acids and their precursors (e.g., glycine has been detected in the interstellar medium, Rivilla et al., 2025)
+- Amino acids and their precursors (e.g., glycine has been detected in the interstellar medium, Rivilla et al., 2025 [5])
 - Polycyclic aromatic hydrocarbons (PAHs)
 - Alcohols, aldehydes, and nitrogen-containing organics
 
-Meteorite samples (e.g., Murchison meteorite) have yielded over 90 types of amino acids (approximately 96 confirmed as of 2017). This demonstrates that organic chemistry is a universal process throughout the cosmos, not a phenomenon unique to Earth.
+Meteorite samples (e.g., Murchison meteorite) have yielded over 90 types of amino acids (approximately 96 confirmed as of 2017) [6]. This demonstrates that organic chemistry is a universal process throughout the cosmos, not a phenomenon unique to Earth.
 
 ### 1.4 Extremophile Life Forms
 
@@ -107,10 +107,10 @@ Extremophiles on Earth have demonstrated that life can survive under the followi
 
 | Environment | Extreme Condition | Known Organism Example |
 |-------------|-------------------|----------------------|
-| High Temperature | >120°C | Hyperthermophilic archaea (e.g., *Methanopyrus kandleri*) |
+| High Temperature | >120°C | Hyperthermophilic archaea (e.g., *Methanopyrus kandleri*) [7] |
 | Low Temperature | <-20°C | Antarctic ice sheet microorganisms |
 | High Pressure | >1000 atm | Deep-sea trench organisms (e.g., Mariana Trench microbes) |
-| High Radiation | >5000 Gy | *Deinococcus radiodurans* |
+| High Radiation | >5000 Gy | *Deinococcus radiodurans* [8] |
 | High Salinity | Saturated brine | *Halobacterium* spp. |
 | Anoxic | Completely anaerobic | Methanogens |
 
@@ -118,7 +118,7 @@ The existence of these organisms dramatically expands the definitional boundarie
 
 ### 1.5 Interplanetary Lithopanspermia & Temporal Accumulation Effects
 
-The physical mechanisms of **Panspermia**:
+The physical mechanisms of **Panspermia** [42]:
 
 1. **Impact ejection**: Asteroid or comet impacts can launch microbe-bearing rocks into space.
 2. **Space survival**: Certain extremophiles (e.g., *Deinococcus radiodurans*) possess long-term survival capabilities in vacuum, intense radiation, and extreme cold environments.
@@ -138,7 +138,7 @@ Panspermia does not violate known physical laws. On cosmic lifespan timescales (
 
 ### 2.1 Energy Hierarchy Model
 
-A civilization's technological level is directly correlated with its energy mastery capabilities. Extending the Kardashev Scale:
+A civilization's technological level is directly correlated with its energy mastery capabilities. Extending the Kardashev Scale [9]:
 
 | Level | Energy Scale | Human Reference Point |
 |-------|-------------|----------------------|
@@ -161,10 +161,10 @@ Each breakthrough in materials science unlocks an entire domain of engineering p
 
 ### 2.3 Superconductors & Extreme Materials
 
-Core physical properties of superconducting materials:
+Core physical properties of superconducting materials [12]:
 
 - **Zero resistance**: Lossless current transmission.
-- **Meissner Effect**: Complete expulsion of external magnetic fields.
+- **Meissner Effect** [13]: Complete expulsion of external magnetic fields.
 - **Extremely high current density**: Capable of transmitting enormous currents through minimal cross-sectional areas.
 
 The current limitation of human superconductor technology lies in critical temperature. If a civilization has mastered room-temperature, ambient-pressure superconducting materials, the following technologies become immediately viable:
@@ -176,7 +176,7 @@ The current limitation of human superconductor technology lies in critical tempe
 
 ### 2.4 Quantum Computing & Higher-Dimensional Simulation
 
-Companies like IBM have already constructed superconducting quantum processors, but current qubit coherence times are extremely short and error rates remain high.
+Companies like IBM have already constructed superconducting quantum processors [11], but current qubit coherence times are extremely short and error rates remain high.
 
 If a civilization masters:
 
@@ -230,7 +230,7 @@ This derivation does not violate bioelectrochemical principles — it only requi
 
 ### 3.1 Compact Nuclear Fusion & Material Limits
 
-ITER (International Thermonuclear Experimental Reactor) currently faces a core bottleneck that **is not theoretical feasibility, but material endurance limits**:
+ITER (International Thermonuclear Experimental Reactor) [10] currently faces a core bottleneck that **is not theoretical feasibility, but material endurance limits**:
 
 - **High-energy neutron bombardment**: D-T fusion produces 14.1 MeV neutrons that cause sustained radiation damage to vessel walls.
 - **Ultra-high-temperature plasma containment**: Plasma temperatures reach 150 million°C, far exceeding the direct contact tolerance of any known material.
@@ -238,7 +238,7 @@ ITER (International Thermonuclear Experimental Reactor) currently faces a core b
 
 If an advanced civilization has matured the following material technologies:
 
-- **High-Entropy Alloys (HEAs)** — Multi-principal-element alloy systems with exceptional high-temperature strength, radiation damage resistance, and corrosion resistance.
+- **High-Entropy Alloys (HEAs)** [14] — Multi-principal-element alloy systems with exceptional high-temperature strength, radiation damage resistance, and corrosion resistance.
 - **Radiation self-healing materials** — Crystal structures with atomic-level self-repair mechanisms that autonomously restore lattice defects under neutron bombardment.
 - **Neutron absorption-optimized lattice structures** — Precisely engineered lattice geometries that maximize neutron kinetic energy absorption and conversion efficiency.
 
@@ -273,7 +273,7 @@ Such technologies enable underground or undersea facilities to achieve long-term
 
 #### 3.3.1 Topological Materials
 
-Key physical properties of topological materials:
+Key physical properties of topological materials [15]:
 
 - **Surface-conducting, internally insulating** — Electron conduction occurs only on the material surface and is topologically protected.
 - **Insensitive to defects and impurities** — Topological states are unaffected by local perturbations, possessing natural anti-interference capabilities.
@@ -287,7 +287,7 @@ Application derivations:
 
 #### 3.3.2 Metamaterials
 
-Metamaterials are artificially designed structured materials whose electromagnetic properties are determined by geometric structure rather than chemical composition:
+Metamaterials are artificially designed structured materials whose electromagnetic properties are determined by geometric structure rather than chemical composition [16]:
 
 - **Designable negative refractive index** — Light can be guided along non-natural propagation paths.
 - **Controllable electromagnetic wave paths** — Enabling arbitrary bending and redirection of electromagnetic waves.
@@ -312,8 +312,8 @@ Core physical properties:
 
 | Property | Graphene | Carbon Nanotubes |
 |----------|----------|-----------------|
-| Tensile Strength | ~130 GPa | ~60 GPa |
-| Young's Modulus | ~1 TPa | ~1 TPa |
+| Tensile Strength | ~130 GPa [17] | ~60 GPa [18] |
+| Young's Modulus | ~1 TPa [17] | ~1 TPa [18] |
 | Thermal Conductivity | ~5000 W/mK | ~3500 W/mK |
 | Electron Mobility | Extremely high | Chirality-dependent |
 
@@ -356,7 +356,7 @@ Combining superconductor, quantum-secured communication, and brain-computer inte
 | Information (classical) | Metamaterial waveguide directed transmission | Very low (non-broadcast) | Metamaterial research |
 | Information (quantum-secured) | Quantum key distribution + highly directional photon channels | Very low (narrow-beam directional, unbreakable encryption) | Quantum no-cloning theorem |
 
-**Key derivation**: It must be noted that the no-communication theorem of quantum mechanics rigorously proves that quantum entanglement alone cannot transmit information — entanglement measurement outcomes appear completely random from the receiver's perspective, requiring a classical channel to complete information transfer. However, if an advanced civilization employs highly directional photon quantum channels (narrow beam, low power, non-broadcast), paired with quantum key distribution (QKD) ensuring unbreakable encryption, such communications would be practically extremely difficult for third parties to detect and decode — **this provides a communication technology explanation for the Fermi Paradox**: it is not that no civilizations are communicating, but that their communication modality possesses extreme directionality and encryption, making it practically difficult for humanity's SETI program to intercept.
+**Key derivation**: It must be noted that the no-communication theorem [19] of quantum mechanics rigorously proves that quantum entanglement alone cannot transmit information — entanglement measurement outcomes appear completely random from the receiver's perspective, requiring a classical channel to complete information transfer. However, if an advanced civilization employs highly directional photon quantum channels (narrow beam, low power, non-broadcast), paired with quantum key distribution (QKD) ensuring unbreakable encryption, such communications would be practically extremely difficult for third parties to detect and decode — **this provides a communication technology explanation for the Fermi Paradox**: it is not that no civilizations are communicating, but that their communication modality possesses extreme directionality and encryption, making it practically difficult for humanity's SETI program to intercept.
 
 **Remote operation application derivations:**
 
@@ -497,7 +497,7 @@ Assuming an advanced civilization existed on Earth before human civilization and
 
 Assuming observed phenomena are not direct actions of biological civilizations, but rather:
 
-- **Self-replicating probes (Von Neumann Probes)** — Automated interstellar exploration systems.
+- **Self-replicating probes (Von Neumann Probes)** [20] — Automated interstellar exploration systems.
 - **AI-driven observation networks** — Long-term monitoring systems without biological operators.
 - **Dormant sentinel systems** — Pre-positioned devices that activate under specific trigger conditions.
 
@@ -529,7 +529,7 @@ If a civilization decides to conduct close-range observation, it may establish o
 
 ### 5.3 Micro Self-Replicating Probes
 
-**Von Neumann Probe** model:
+**Von Neumann Probe** [20] model:
 
 - Self-replicating micro-probes can diffuse exponentially across an entire galaxy.
 - Assuming each replication cycle takes 1,000 years, covering the entire Milky Way requires only approximately 10⁶–10⁷ years.
@@ -613,7 +613,7 @@ The migration time window may have been approximately 3–3.5 billion years ago,
 
 ### 6b.1 Early Venus Habitability
 
-NASA GISS climate models (Way et al., 2016; Way & Del Genio, 2020) indicate that Venus may have possessed the following conditions approximately 700 million to 3 billion years ago (some models suggest habitable conditions may have begun as early as ~4.2 billion years ago):
+NASA GISS climate models (Way et al., 2016 [21]; Way & Del Genio, 2020 [22]) indicate that Venus may have possessed the following conditions approximately 700 million to 3 billion years ago (some models suggest habitable conditions may have begun as early as ~4.2 billion years ago):
 
 - **Liquid water oceans** — Models project that when early Venus had a slower rotation rate, atmospheric circulation could maintain moderate surface temperatures (approximately 20–50°C), sufficient to support stable liquid water bodies.
 - **Thick but non-runaway atmosphere** — Early Venus atmospheric CO₂ concentrations may not yet have triggered the positive feedback runaway.
@@ -693,15 +693,15 @@ Potential interweaving of Venus and Mars migration theories:
 
 The Venus hypothesis faces more stringent verification challenges than the Mars hypothesis:
 
-- **Surface remnants are completely inaccessible** — The 462°C, 90 atm environment limits any lander's lifespan to extremely short durations (the Soviet Venera series survived a maximum of approximately 127 minutes).
+- **Surface remnants are completely inaccessible** — The 462°C, 90 atm environment limits any lander's lifespan to extremely short durations (the Soviet Venera series survived a maximum of approximately 127 minutes) [23].
 - **Geological timescale masking is more thorough** — The Venus surface underwent a global volcanic resurfacing event approximately 300–500 million years ago, erasing all earlier geological records.
 - **Atmospheric habitation structures are difficult to detect from orbit** — If buoyant structures exist, their scale and characteristics may be indistinguishable from cloud features.
 
 However, the following observation pathways remain viable:
 
-- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species (e.g., the phosphine controversy, Greaves et al., 2020).
+- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species (e.g., the phosphine controversy, Greaves et al., 2020 [24]).
 - **Long-term Venus orbital monitoring** — Searching for artificial structures or regular movement patterns within the atmosphere.
-- **Venus surface radar penetration** (e.g., NASA VERITAS [facing budget uncertainty], ESA EnVision [launch targeted for 2031] missions) — Searching for anomalous subsurface structures, though constrained by the high-temperature, high-pressure environment.
+- **Venus surface radar penetration** (e.g., NASA VERITAS [32] [facing budget uncertainty], ESA EnVision [33] [launch targeted for 2031] missions) — Searching for anomalous subsurface structures, though constrained by the high-temperature, high-pressure environment.
 
 ---
 
@@ -716,9 +716,9 @@ Key question: **If an industrial civilization existed and perished 50 million ye
 - Most buildings and metal artifacts would be eroded or buried.
 - Plastics and synthetic compounds might leave chemical anomalies in sedimentary layers.
 - Large-scale nuclear activity could leave isotope ratio anomalies.
-- Sudden carbon emission events in the geological record (e.g., PETM) could be related to industrial activity.
+- Sudden carbon emission events in the geological record (e.g., PETM [41]) could be related to industrial activity.
 
-This is known as the **"Silurian Hypothesis"**, formally proposed in 2018 by NASA scientist Gavin Schmidt and astrophysicist Adam Frank.
+This is known as the **"Silurian Hypothesis"**, formally proposed in 2018 by NASA scientist Gavin Schmidt and astrophysicist Adam Frank [26].
 
 Furthermore, Panspermia (see Section 1.5) provides a third possible framework for the origin of terrestrial life: life on Earth may not have arisen entirely from independent local chemistry, but may incorporate biological components delivered from Mars, Venus, or other bodies via natural meteoritic transfer. If this pathway holds, there exists a deeper biochemical connection between the Martian (VI) and Venus (VI-b) civilization hypotheses discussed in preceding chapters and Earth's own biological history — life on different planets may share a common ancient ancestor encoded in the same genetic language.
 
@@ -757,7 +757,7 @@ Energy derivation: If a civilization possesses controlled nuclear fusion, an Ant
 
 Structural advantages of the ocean floor as a base location:
 
-- **Extreme exploration difficulty in high-pressure deep-sea zones** — Human direct visual observation coverage of the deep seafloor is approximately 0.001% (2025 *Science Advances* study), with exploration of the hadal zone (>6000m) even more sparse.
+- **Extreme exploration difficulty in high-pressure deep-sea zones** — Human direct visual observation coverage of the deep seafloor is approximately 0.001% (2025 *Science Advances* study) [27], with exploration of the hadal zone (>6000m) even more sparse.
 - **Excellent sound attenuation** — The acoustic absorption properties of seawater naturally shield internal acoustic activity.
 - **Electromagnetic absorption** — Seawater's high absorption rate for electromagnetic waves makes base electromagnetic signatures difficult to detect.
 - **Hydrothermal vents** — Can serve as natural energy sources and chemical feedstock origins.
@@ -960,8 +960,8 @@ When cross-galactic deployment remains incomplete, the following cosmic-scale ev
 | Severance Type | Mechanism | Impact Radius | Historical Evidence |
 |----------------|-----------|--------------|-------------------|
 | Gamma-ray burst (GRB) | High-energy radiation released by nearby stellar collapse | Thousands of light-years | Possible link to the Ordovician mass extinction |
-| Extreme solar storm | Stellar superflare | Entire stellar system | A thousandfold version of the Carrington Event (1859) |
-| Planetary chain impact | Asteroid belt perturbation triggering cascading impacts | Planetary scale | Hypothesized Late Heavy Bombardment (currently debated) |
+| Extreme solar storm | Stellar superflare | Entire stellar system | A thousandfold version of the Carrington Event (1859) [34] |
+| Planetary chain impact | Asteroid belt perturbation triggering cascading impacts | Planetary scale | Hypothesized Late Heavy Bombardment (currently debated) [35] |
 | Severe orbital shift | Gravitational perturbation from nearby stars | Stellar system | Long-period orbital instabilities |
 | Supernova explosion | Nearby massive star detonation | Tens of light-years | Pliocene seabed iron-60 deposits |
 
@@ -993,7 +993,7 @@ After civilizational severance, information survival follows a hierarchical stru
 
 **Key observation**: Myths across globally distinct cultures exhibit striking structural similarities — flood narratives, descending sky gods, memories of lost civilizations. These may not be mere cultural coincidence but rather **compressed encodings of the same civilizational severance event**, independently preserved as fragments among different surviving populations.
 
-Human DNA also contains incompletely understood "genetic bottleneck" events (e.g., the Toba supervolcano eruption approximately 74,000 years ago and the contemporaneous genetic bottleneck event (the causal link between the two remains debated; the bottleneck may instead stem from founder effects during the Out-of-Africa migration)). These bottlenecks may mark temporal nodes of civilization reset.
+Human DNA also contains incompletely understood "genetic bottleneck" events (e.g., the Toba supervolcano eruption approximately 74,000 years ago and the contemporaneous genetic bottleneck event [36] (the causal link between the two remains debated; the bottleneck may instead stem from founder effects during the Out-of-Africa migration)). These bottlenecks may mark temporal nodes of civilization reset.
 
 ### 11.4 Mars Phase: Possible Early Deployment Node
 
@@ -1048,9 +1048,9 @@ If so, the core mission of the current phase is not merely economic development 
 
 | Mission | Objective | Current Progress |
 |---------|-----------|-----------------|
-| Establish multi-planetary survival capability | Self-sustaining colonies on Mars/Moon | Early exploration phase (SpaceX, Artemis) |
-| Enhance planetary-scale risk resilience | Asteroid defense + climate stabilization | Initial technology validation (DART mission) |
-| Establish cross-generational information preservation systems | Knowledge storage on ten-thousand-year timescales | Construction phase (Long Now Foundation's 10,000-Year Clock under physical construction in Texas) |
+| Establish multi-planetary survival capability | Self-sustaining colonies on Mars/Moon | Early exploration phase (SpaceX [37], Artemis [38]) |
+| Enhance planetary-scale risk resilience | Asteroid defense + climate stabilization | Initial technology validation (DART mission [39]) |
+| Establish cross-generational information preservation systems | Knowledge storage on ten-thousand-year timescales | Construction phase (Long Now Foundation's 10,000-Year Clock [40] under physical construction in Texas) |
 | Transition civilization from single-point to multi-node | Distributed civilization architecture | Theoretical phase |
 
 ### 12.3 Critical Conditions for Civilization Survival
@@ -1088,18 +1088,18 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 ### 13.1 Subsurface Imaging
 
 - **High-resolution seismic wave tomography** — Using natural earthquakes and artificial sources to build 3D crustal density maps.
-- **Muon Tomography** — Leveraging the rock-penetrating properties of cosmic ray muons to detect underground cavities.
-- **Gravity gradient measurements** — Using satellite gravity data (e.g., GRACE/GRACE-FO) to search for anomalous density distributions.
+- **Muon Tomography** [29] — Leveraging the rock-penetrating properties of cosmic ray muons to detect underground cavities.
+- **Gravity gradient measurements** — Using satellite gravity data (e.g., GRACE/GRACE-FO [28]) to search for anomalous density distributions.
 
 **Determination criterion**: If high-resolution subsurface imaging fails to detect artificial structural features in candidate regions, then relevant underground base models can be weakened.
 
 ### 13.2 Deep-Sea Scanning
 
-- **Comprehensive ocean floor topographic scanning** — As of 2025, global high-resolution seabed mapping coverage is approximately 27% (Seabed 2030 project data), with over 70% of the ocean floor remaining unmapped.
+- **Comprehensive ocean floor topographic scanning** — As of 2025, global high-resolution seabed mapping coverage is approximately 27% (Seabed 2030 project [25] data), with over 70% of the ocean floor remaining unmapped.
 - **Deep-sea sonar anomaly analysis** — Searching for non-natural echo patterns.
 - **Deep-sea thermal anomaly monitoring** — Local temperature anomalies exceeding natural geothermal models.
 
-**Determination criterion**: If comprehensive deep-sea scanning reveals no artificial structural features, then oceanic base models can be eliminated.
+The ongoing Seabed 2030 project [25] will continue to expand global seabed mapping coverage. **Determination criterion**: If comprehensive deep-sea scanning reveals no artificial structural features, then oceanic base models can be eliminated.
 
 ### 13.3 Gravitational Anomaly Monitoring
 
@@ -1123,7 +1123,7 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 
 ### 13.6 Mars & Lunar Subsurface Exploration
 
-- **Mars subsurface radar detection** (e.g., SHARAD, MARSIS) — Searching for artificial cavities or structures beneath the Martian surface.
+- **Mars subsurface radar detection** (e.g., SHARAD [30], MARSIS [31]) — Searching for artificial cavities or structures beneath the Martian surface.
 - **Lunar lava tube detection** — Using lunar orbiter radar and gravity data to search for anomalous cavities.
 - **Sample return missions** — Retrieving samples from Martian or lunar subsurface to analyze for artificial material traces.
 
@@ -1131,9 +1131,9 @@ The value of this hypothesis lies in its falsifiability. The following are speci
 
 ### 13.7 Venus Atmospheric & Surface Exploration
 
-- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species in the atmosphere, particularly molecules that should not stably exist under Venus atmospheric conditions (e.g., phosphine, Greaves et al., 2020).
+- **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species in the atmosphere, particularly molecules that should not stably exist under Venus atmospheric conditions (e.g., phosphine, Greaves et al., 2020 [24]).
 - **Long-term Venus upper atmosphere monitoring** — Using orbiters to search for anomalous structures, regular movement patterns, or non-natural reflective features at 50–60 km altitude.
-- **Venus surface radar penetration imaging** — Utilizing synthetic aperture radar (e.g., NASA VERITAS mission's X-band SAR [planned, facing budget uncertainty], ESA EnVision mission's VenSAR [entered construction phase, launch targeted for 2031]) to penetrate cloud cover and search for possible anomalous subsurface structures.
+- **Venus surface radar penetration imaging** — Utilizing synthetic aperture radar (e.g., NASA VERITAS mission [32] X-band SAR [planned, facing budget uncertainty], ESA EnVision mission [33] VenSAR [entered construction phase, launch targeted for 2031]) to penetrate cloud cover and search for possible anomalous subsurface structures.
 - **Venus atmospheric entry probes** — Deploying buoyant probes capable of long-duration residence in the upper atmosphere for direct sampling and analysis of atmospheric composition and particulate structures.
 
 **Determination criterion**: If Venus atmospheric chemical analysis reveals no non-natural compounds and long-term upper atmosphere monitoring detects no artificial structural features, then the Venus atmospheric habitation model can be weakened. If Venus surface radar penetration finds no artificial structural traces beneath the global resurfacing layer, then the ancient Venus surface civilization model can be further weakened.
@@ -1167,3 +1167,91 @@ The overall model progressively shifts from narrative-level to engineering- and 
 ---
 
 *This hypothesis framework is designed to be progressively filled with rigorous derivations, evidence references, and falsifiable predictions.*
+
+---
+
+## References
+
+[1] Chomiuk, L. & Povich, M. S. (2011). "Toward a Unification of Star Formation Rate Determinations in the Milky Way and Other Galaxies." *The Astronomical Journal*, 142(6), 197. https://doi.org/10.1088/0004-6256/142/6/197
+
+[2] NASA Kepler Space Telescope Mission. https://science.nasa.gov/mission/kepler/
+
+[3] NASA TESS (Transiting Exoplanet Survey Satellite) Mission. https://science.nasa.gov/mission/tess/
+
+[4] Petigura, E. A., Howard, A. W. & Marcy, G. W. (2013). "Prevalence of Earth-size planets orbiting Sun-like stars." *Proceedings of the National Academy of Sciences*, 110(48), 19273–19278. https://doi.org/10.1073/pnas.1319909110
+
+[5] Rivilla, V. M. et al. (2025). "Interstellar glycine detected toward a solar-type protostar IRAS 16293-2422B." Research Square preprint. https://doi.org/10.21203/rs.3.rs-6926668/v1
+
+[6] Glavin, D. P. et al. (2021). "Extraterrestrial amino acids and L-enantiomeric excesses in the CM2 carbonaceous chondrites Aguas Zarcas and Murchison." *Meteoritics & Planetary Science*, 56, 148–173. https://doi.org/10.1111/maps.13451
+
+[7] Takai, K. et al. (2008). "Cell proliferation at 122°C and isotopically heavy CH₄ production by a hyperthermophilic methanogen under high-pressure cultivation." *Proceedings of the National Academy of Sciences*, 105(31), 10949–10954. https://doi.org/10.1073/pnas.0712334105
+
+[8] Slade, D. & Radman, M. (2011). "Oxidative Stress Resistance in *Deinococcus radiodurans*." *Microbiology and Molecular Biology Reviews*, 75(1), 133–191. https://doi.org/10.1128/MMBR.00015-10
+
+[9] Kardashev, N. S. (1964). "Transmission of Information by Extraterrestrial Civilizations." *Soviet Astronomy*, 8, 217–221. https://ui.adsabs.harvard.edu/abs/1964SvA.....8..217K/abstract
+
+[10] ITER — International Thermonuclear Experimental Reactor. https://www.iter.org/
+
+[11] IBM Quantum Hardware & Roadmap. https://www.ibm.com/quantum/hardware
+
+[12] Meissner, W. & Ochsenfeld, R. (1933). "Ein neuer Effekt bei Eintritt der Supraleitfähigkeit." *Naturwissenschaften*, 21(44), 787–788. https://doi.org/10.1007/BF01504252
+
+[13] Essen, H. & Fiolhais, M. C. N. (2012). "Meissner effect, diamagnetism, and classical physics — a review." *American Journal of Physics*, 80(2), 164–169. https://doi.org/10.1119/1.3662027
+
+[14] Miracle, D. B. & Senkov, O. N. (2017). "A critical review of high entropy alloys and related concepts." *Acta Materialia*, 122, 448–511. https://doi.org/10.1016/j.actamat.2016.08.081
+
+[15] Hasan, M. Z. & Kane, C. L. (2010). "Colloquium: Topological insulators." *Reviews of Modern Physics*, 82(4), 3045–3067. https://doi.org/10.1103/RevModPhys.82.3045
+
+[16] Pendry, J. B., Schurig, D. & Smith, D. R. (2006). "Controlling Electromagnetic Fields." *Science*, 312(5781), 1780–1782. https://doi.org/10.1126/science.1125907
+
+[17] Lee, C. et al. (2008). "Measurement of the Elastic Properties and Intrinsic Strength of Monolayer Graphene." *Science*, 321(5887), 385–388. https://doi.org/10.1126/science.1157996
+
+[18] Yu, M.-F. et al. (2000). "Strength and Breaking Mechanism of Multiwalled Carbon Nanotubes Under Tensile Load." *Science*, 287(5453), 637–640. https://doi.org/10.1126/science.287.5453.637
+
+[19] Peres, A. & Terno, D. R. (2004). "Quantum information and relativity theory." *Reviews of Modern Physics*, 76(1), 93–123. https://doi.org/10.1103/RevModPhys.76.93
+
+[20] Freitas, R. A. Jr. (1980). "A Self-Reproducing Interstellar Probe." *Journal of the British Interplanetary Society*, 33, 251–264. https://ui.adsabs.harvard.edu/abs/1980JBIS...33..251F/abstract
+
+[21] Way, M. J. et al. (2016). "Was Venus the first habitable world of our solar system?" *Geophysical Research Letters*, 43(16), 8376–8383. https://doi.org/10.1002/2016GL069790
+
+[22] Way, M. J. & Del Genio, A. D. (2020). "Venusian Habitable Climate Scenarios: Modeling Venus Through Time and Applications to Slowly Rotating Venus-Like Exoplanets." *Journal of Geophysical Research: Planets*, 125(5), e2019JE006276. https://doi.org/10.1029/2019JE006276
+
+[23] NASA NSSDCA — Venera 13 Descent Craft. https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-106D
+
+[24] Greaves, J. S. et al. (2021). "Phosphine gas in the cloud decks of Venus." *Nature Astronomy*, 5, 655–664. https://doi.org/10.1038/s41550-020-1174-4
+
+[25] Seabed 2030 — The Nippon Foundation–GEBCO Seabed 2030 Project. https://seabed2030.org/
+
+[26] Schmidt, G. A. & Frank, A. (2018). "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?" *International Journal of Astrobiology*, 18(2), 142–150. https://doi.org/10.1017/S1473550418000095
+
+[27] Deep-sea direct observation coverage data source: 2025 *Science Advances* study.
+
+[28] NASA GRACE-FO (Gravity Recovery and Climate Experiment Follow-On). https://gracefo.jpl.nasa.gov/
+
+[29] Alvarez, L. W. et al. (1970). "Search for Hidden Chambers in the Pyramids." *Science*, 167(3919), 832–839. https://doi.org/10.1126/science.167.3919.832
+
+[30] NASA MRO SHARAD (Shallow Radar). https://mars.nasa.gov/mro/mission/instruments/sharad/
+
+[31] ESA Mars Express MARSIS (Mars Advanced Radar for Subsurface and Ionosphere Sounding). https://www.esa.int/Science_Exploration/Space_Science/Mars_Express
+
+[32] NASA VERITAS (Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy). https://science.nasa.gov/mission/veritas/
+
+[33] ESA EnVision Mission. https://www.esa.int/Science_Exploration/Space_Science/Envision
+
+[34] Cliver, E. W. & Dietrich, W. F. (2013). "The 1859 space weather event revisited: limits of extreme activity." *Journal of Space Weather and Space Climate*, 3, A31. https://doi.org/10.1051/swsc/2013053
+
+[35] Gomes, R. et al. (2005). "Origin of the cataclysmic Late Heavy Bombardment period of the terrestrial planets." *Nature*, 435, 466–469. https://doi.org/10.1038/nature03676
+
+[36] Ambrose, S. H. (1998). "Late Pleistocene human population bottlenecks, volcanic winter, and differentiation of modern humans." *Journal of Human Evolution*, 34(6), 623–651. https://doi.org/10.1006/jhev.1998.0219
+
+[37] SpaceX — Human Spaceflight: Mars. https://www.spacex.com/human-spaceflight/mars
+
+[38] NASA Artemis Program. https://www.nasa.gov/humans-in-space/artemis/
+
+[39] NASA DART (Double Asteroid Redirection Test) Mission. https://science.nasa.gov/mission/dart/
+
+[40] Long Now Foundation — The 10,000 Year Clock. https://longnow.org/clock/
+
+[41] Kennett, J. P. & Stott, L. D. (1991). "Abrupt deep-sea warming, palaeoceanographic changes and benthic extinctions at the end of the Palaeocene." *Nature*, 353, 225–229. https://doi.org/10.1038/353225a0
+
+[42] Worth, R. J., Sigurdsson, S. & House, C. H. (2013). "Seeding life on the moons of the outer planets via lithopanspermia." *Astrobiology*, 13(12), 1155–1165. https://doi.org/10.1089/ast.2013.1028
