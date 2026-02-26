@@ -8,6 +8,8 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 
 > This is a living document. Contributions, critiques, and falsification attempts are welcome.
 
+![Cosmic Diaspora Hypothesis](https://github.com/user-attachments/assets/167aa410-fa6d-43e2-ade4-e9e055908bed)
+
 ---
 
 ## Documents
