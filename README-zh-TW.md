@@ -8,7 +8,7 @@
 
 > 這是一份持續更新的文件。歡迎貢獻、批判與證偽嘗試。
 
-![宇宙播遷假說](https://github.com/user-attachments/assets/167aa410-fa6d-43e2-ade4-e9e055908bed)
+![宇宙播遷假說](./assets/cover.png)
 
 ---
 
