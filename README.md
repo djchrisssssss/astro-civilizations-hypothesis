@@ -16,8 +16,10 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 
 | Document | Language | Description |
 |----------|----------|-------------|
-| [`hypothesis-en.md`](./hypothesis-en.md) | English | Full hypothesis framework in English |
-| [`hypothesis-zh-TW.md`](./hypothesis-zh-TW.md) | 繁體中文 | Full hypothesis framework in Traditional Chinese |
+| [`hypothesis-en.md`](./markdown/en/hypothesis-en.md) | English | Full hypothesis framework in English |
+| [`hypothesis-zh-TW.md`](./markdown/zh-TW/hypothesis-zh-TW.md) | 繁體中文 | Full hypothesis framework in Traditional Chinese |
+| [`VERIFICATION-REPORT.md`](./markdown/en/VERIFICATION-REPORT.md) | English | Scientific verification report |
+| [`VERIFICATION-REPORT-zh-TW.md`](./markdown/zh-TW/VERIFICATION-REPORT-zh-TW.md) | 繁體中文 | Scientific verification report (Chinese) |
 
 ---
 

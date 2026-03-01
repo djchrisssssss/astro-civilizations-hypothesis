@@ -16,8 +16,10 @@
 
 | 文件 | 語言 | 說明 |
 |------|------|------|
-| [`hypothesis-en.md`](./hypothesis-en.md) | English | 完整英文版假說架構 |
-| [`hypothesis-zh-TW.md`](./hypothesis-zh-TW.md) | 繁體中文 | 完整繁體中文版假說架構 |
+| [`hypothesis-en.md`](./markdown/en/hypothesis-en.md) | English | 完整英文版假說架構 |
+| [`hypothesis-zh-TW.md`](./markdown/zh-TW/hypothesis-zh-TW.md) | 繁體中文 | 完整繁體中文版假說架構 |
+| [`VERIFICATION-REPORT.md`](./markdown/en/VERIFICATION-REPORT.md) | English | 科學驗證報告 |
+| [`VERIFICATION-REPORT-zh-TW.md`](./markdown/zh-TW/VERIFICATION-REPORT-zh-TW.md) | 繁體中文 | 科學驗證報告（中文版） |
 
 ---
 
