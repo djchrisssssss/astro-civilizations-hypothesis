@@ -8,7 +8,7 @@
 
 This paper proposes a structural hypothesis framework:
 
-1. **The diffusion of life across the universe is a high-probability statistical outcome**, not a rare event.
+1. **Under the premise that the abiogenesis probability is not extremely low, the diffusion of life across the universe is a statistically high-probability outcome**, not a rare event.
 2. **The so-called "alien" phenomenon can be viewed as a projected ensemble of multiple possible sources**, rather than a single-species narrative.
 3. **If advanced civilizations exist, their base site selection, stealth strategies, and energy technologies will exhibit derivable physical and engineering characteristics.**
 
@@ -43,6 +43,14 @@ This hypothesis is based on the following statistical premises:
 - Exoplanet observation missions (e.g., Kepler, TESS) demonstrate that planet formation is a normative process.
 - On cosmic timescales (10⁹–10¹⁰ year scale), low-probability events can accumulate into high aggregate probabilities.
 
+**Observation Selection Effects Statement:**
+
+This framework's statistical derivations require an additional epistemological caveat: the Anthropic Principle imposes non-trivial constraints on probabilistic reasoning. As observers, our very existence pre-selects an environment in which life has already emerged — this means we cannot directly infer "life is common in the universe" from the fact that "life exists on Earth" (Bostrom, 2002 [43]).
+
+Specifically: even if life is extraordinarily rare in the universe (f_l → 0), as long as at least one civilization emerges and produces observers, those observers will necessarily observe that their planet harbors life. This self-selection bias means that an N=1 observation cannot constrain the lower bound of f_l.
+
+This framework acknowledges this limitation and positions it as supplementary background for Section 1.6 (Abiogenesis Constraint). The framework's core derivations (Parts II through VIII) employ conditional structure ("if life/civilization already exists, then…"), and therefore are not affected by anthropic bias.
+
 ### 0.4 Phenomenon–Structure Mapping
 
 For each extraterrestrial-related phenomenon, this hypothesis does not directly judge "true or false" but instead:
@@ -62,6 +70,13 @@ This hypothesis is designed as a falsifiable framework:
 - **If future materials science proves room-temperature superconductivity infeasible**, then related technological derivations need adjustment.
 
 This hypothesis does not claim "aliens exist" — it provides an analytical tool for "if they exist, what derivable structures should they exhibit."
+
+**Epistemological Layering of the Framework:** This hypothesis contains two levels with distinct epistemological statuses:
+
+1. **Falsifiable sub-models** (underground bases, undersea bases, Venus atmospheric habitation, etc.) — each sub-model defines specific weakening or exclusion conditions (see Part VIII). The scientific value of these sub-models lies in their capacity to be negated by empirical evidence.
+2. **Non-falsifiable meta-framework** (distributed non-material civilization forms, see Section 3.6) — this form assumes civilizations leave no physical traces whatsoever, and therefore cannot in principle be excluded by current observational technology. This hypothesis explicitly acknowledges: this meta-framework exceeds the boundaries of falsifiable science; its status is that of a purely speculative thought experiment and should not be evaluated on the same terms as falsifiable sub-models.
+
+The observation pathways in Part VIII apply only to falsifiable sub-models. If all falsifiable sub-models are excluded by empirical evidence, the distributed non-material civilization hypothesis may still exist as a logical possibility, but its scientific status will be equivalent to a non-falsifiable metaphysical proposition.
 
 ---
 
@@ -131,6 +146,23 @@ Panspermia does not violate known physical laws. On cosmic lifespan timescales (
 - Cumulative aggregate probability rises significantly over time.
 - Distances between stellar systems within the Milky Way are not insurmountable.
 - Life diffusion may be a slow but continuous cosmic-scale process.
+
+### 1.6 The Unresolved Constraint of Abiogenesis Probability (Abiogenesis Constraint)
+
+The preceding sections have established the following evidence chain: stellar and planetary formation as normality (1.1) → widespread habitable zone distribution (1.2) → universal presence of organic molecules (1.3) → life can survive in extreme environments (1.4) → interplanetary rock transfer is physically feasible (1.5).
+
+However, a critical break point exists in this evidence chain: **the transition probability from organic molecules to the first self-replicating system (abiogenesis) is currently completely unknown.** This constitutes the most fundamental source of uncertainty in this framework.
+
+Specifically:
+
+- The existence of organic precursors (amino acids, nucleotides, etc.) is a necessary but not sufficient condition for life.
+- To date, no laboratory experiment has successfully produced a complete self-replicating system spontaneously from an inorganic environment.
+- Earth is the only known data point for the origin of life (N=1), which means we cannot make meaningful statistical inferences about the abiogenesis probability (f_l in the Drake Equation) — its value could range from ~1 (near-certain) to 10⁻⁴⁰ (extraordinarily rare).
+- Panspermia (Section 1.5) does not resolve this problem; it merely relocates the site of abiogenesis to another celestial body.
+
+**Impact of this constraint on the framework:** If the true value of f_l is extremely low (e.g., <10⁻²⁰), then even with hundreds of billions of habitable planets in the universe, life may still be an extraordinarily rare event. In this scenario, Part I's conclusion of "high-probability statistical outcome" would not hold, but the conditional derivations in Parts II through VIII ("if life/civilization already exists, then…") remain valid, as they do not depend on the specific value of f_l.
+
+This framework explicitly acknowledges abiogenesis as an unresolved constraint and marks it as the single link with the highest uncertainty in the overall derivation chain.
 
 ---
 
@@ -246,9 +278,17 @@ If an advanced civilization has matured the following material technologies:
 
 Then compact fusion reactors become engineering-feasible. This means base energy systems can:
 
-- **Operate in long-term isolation** — No external fuel supply needed (D-T fuel can be extracted from seawater).
+- **Operate in long-term isolation** — If a complete tritium breeding cycle is established, long-term closed operation becomes feasible — deuterium can be extracted almost limitlessly from seawater, and tritium is self-produced via lithium breeding blankets.
 - **Leave virtually no external energy signature** — No smokestacks, no cooling towers, no large-scale grid connections.
 - **Achieve energy density far exceeding fossil and fission technologies** — A single reactor can power an entire base for decades.
+
+**Fuel Cycle Constraint:**
+
+Note that the fuel self-sufficiency claim for D-T fusion requires qualification:
+- **Deuterium (D)**: Can be extracted from seawater in virtually unlimited quantities (seawater deuterium content ~33 mg/L).
+- **Tritium (T)**: Has a half-life of only 12.3 years and is virtually non-existent in nature. Reactors must self-produce tritium through a Lithium Breeding Blanket (⁶Li + n → T + ⁴He). The Tritium Breeding Ratio (TBR) must be >1.0 to maintain fuel self-sufficiency, imposing rigid requirements on blanket volume and neutronic design — the reactor has a minimum size floor determined by the breeding blanket volume, which constitutes a physical constraint on miniaturization.
+
+Alternative fuel pathways (D-D fusion or p-¹¹B fusion) can avoid tritium dependence, but require higher plasma temperatures (D-D: ~500 million K; p-¹¹B: ~1 billion K) and have lower reaction cross-sections, further escalating the difficulty of materials and confinement engineering. An advanced civilization's choice of fusion technology pathway will directly determine the minimum viable reactor size.
 
 ### 3.2 Room-Temperature Superconducting Materials & Magnetic Field Manipulation
 
@@ -325,13 +365,29 @@ In deep-sea or polar pressure environments:
 - **Improved energy and thermal management efficiency** — Extremely high thermal conductivity allows waste heat to be precisely directed and processed.
 - **Lightweight advantage** — At equivalent strength, structural mass can be reduced by 1–2 orders of magnitude.
 
+#### 3.3.4 Material System Integration Constraints & Physical Limits
+
+The derivations for each material technology above (superconductors, high-entropy alloys, metamaterials, carbon-based nanomaterials) are based on the ideal properties of individual materials. In practical engineering systems, integration between materials faces the following unresolved constraints:
+
+**Material Compatibility Issues:**
+- The precise lattice structure required by room-temperature superconductors and the high degree of lattice disorder inherent to high-entropy alloys may produce fundamental conflicts at their interface. If both must operate within the same system (e.g., the magnetic confinement coils and structural wall materials of a fusion reactor), interface engineering will become an independent technical bottleneck.
+- Room-temperature, ambient-pressure superconductivity itself currently has no reproducibly verified experimental realization. Lattice stability limitations within the BCS theory framework mean this technology may require an entirely new superconducting mechanism. If room-temperature superconductivity at ambient pressure is ultimately proven infeasible, the entire derivation chain dependent on it (lossless transmission, fusion magnetic confinement, electromagnetic shielding, stealth) will require alternatives — possible substitutes include high-temperature superconducting materials (liquid nitrogen temperature range, already commercialized) paired with efficient cryogenic systems, but this increases energy consumption and system complexity.
+
+**Physical Limits of Metamaterials:**
+- **Bandwidth constraint**: The Kramers-Kronig causality relations impose fundamental limits on the frequency response of metamaterials. Perfect broadband cloaking (simultaneously covering all radar bands, infrared, and visible light) may be physically unrealizable. What is practically achievable is narrowband cloaking targeting specific detection technology frequency bands, or adaptive metamaterials that switch between different frequency bands.
+- **Scale constraint**: The effective feature scale of metamaterials must be comparable to the target wavelength. Structures effective for radar waves (cm-scale) are ineffective for infrared (μm-scale); the two require design layers at entirely different scales.
+
+**Inescapable Thermodynamic Constraints:**
+- Conservation of energy requires that any continuously operating energy system inevitably produces waste heat. Superconducting systems themselves produce no Joule heating, but fusion reactions, biological activity, and computational processes all generate heat. This heat must be discharged to the environment — it can be directionally dissipated (concentrating the thermal signature in a specific direction) or blended with the environmental background (making the thermal signature indistinguishable), but it cannot be made to disappear.
+- Therefore, "stealth" as used in this framework should be understood as "**reducing detectable signatures below the threshold of current or near-future detection technology**," not "physically completely invisible." As human detection technology advances, this threshold will continue to decrease, and stealth difficulty will continue to increase.
+
 ### 3.4 Electromagnetic & Thermal Signature Control
 
 Integrating the above material technologies, the signature control capabilities of an advanced civilization can be summarized as:
 
 | Signature Type | Control Technology | Effect |
 |---------------|-------------------|--------|
-| Electromagnetic Radiation | Metamaterial cloaking | Invisible across radar and communication bands |
+| Electromagnetic Radiation | Metamaterial cloaking | Significantly reduced detectability in specific bands (subject to Kramers-Kronig bandwidth limits) |
 | Thermal Infrared | Directional thermal radiation + metamaterials | Thermal signature blends with environmental background |
 | Magnetic Field | Superconducting shielding | Internal strong magnetic fields completely contained |
 | Acoustic | Acoustic metamaterials | Active noise cancellation and sound wave redirection |
@@ -359,6 +415,8 @@ Combining superconductor, quantum-secured communication, and brain-computer inte
 | Information (quantum-secured) | Quantum key distribution + highly directional photon channels | Very low (narrow-beam directional, unbreakable encryption) | Quantum no-cloning theorem |
 
 **Key derivation**: It must be noted that the no-communication theorem [19] of quantum mechanics rigorously proves that quantum entanglement alone cannot transmit information — entanglement measurement outcomes appear completely random from the receiver's perspective, requiring a classical channel to complete information transfer. However, if an advanced civilization employs highly directional photon quantum channels (narrow beam, low power, non-broadcast), paired with quantum key distribution (QKD) ensuring unbreakable encryption, such communications would be practically extremely difficult for third parties to detect and decode — **this provides a communication technology explanation for the Fermi Paradox**: it is not that no civilizations are communicating, but that their communication modality possesses extreme directionality and encryption, making it practically difficult for humanity's SETI program to intercept.
+
+**Limitations of this explanation:** The directed communication hypothesis requires that all civilizations in the universe that have achieved communication capability choose directional rather than broadcast communication — this is an AND condition. Only one civilization need choose to broadcast (whether for exploration, display, or carelessness) for SETI programs to theoretically be able to detect it. Therefore, the directed communication hypothesis as a complete explanation for the Fermi Paradox requires at least one additional assumption: (a) some form of interstellar convention or normative pressure drives all civilizations toward concealment; (b) civilizations that choose to broadcast face higher survival risks ("Dark Forest" game-theoretic pressure); or (c) the number of civilizations is extremely small, making the AND condition easier to satisfy. This framework does not presuppose which of the above holds, but merely notes that the directed communication hypothesis as a standalone explanation is incomplete.
 
 **Remote operation application derivations:**
 
@@ -399,7 +457,7 @@ Under this architecture:
 - **No detectable infrastructure is needed** — No power grid, no communication towers, no transportation network.
 - **Biological individuals themselves are the civilization's hardware** — Death is merely a node going offline; knowledge and memories have already been synchronized to the network.
 
-This is entirely opposite to humanity's urbanization trend, but offers overwhelming advantages in stealth and survivability. This also provides an additional corollary: **Advanced civilizations may not construct "buildings" or "cities" as we understand them at all, meaning that subsurface imaging and deep-sea scanning finding no artificial structures cannot entirely rule out the presence of advanced civilizations.**
+This is entirely opposite to humanity's urbanization trend, but offers overwhelming advantages in stealth and survivability. This also provides an additional corollary: **Advanced civilizations may not construct "buildings" or "cities" as we understand them at all, meaning that subsurface imaging and deep-sea scanning finding no artificial structures cannot rule out the logical possibility of distributed non-material civilization forms — but note that such forms already exceed the boundaries of falsifiable science (see Section 0.5 Epistemological Layering).**
 
 ---
 
@@ -624,6 +682,17 @@ NASA GISS climate models (Way et al., 2016 [21]; Way & Del Genio, 2020 [22]) ind
 
 This habitable window may have lasted over **2 billion years** — far exceeding Mars's 500 million to 1 billion years. By Earth's standards, this timeframe is sufficient to support the complete evolutionary trajectory from single-celled organisms to complex multicellular life.
 
+**Parameter Sensitivity Warning:** The above habitability window estimate is highly dependent on the initial condition assumptions of the climate model. Key sensitive parameters include:
+
+| Parameter | Baseline Assumption | If Assumption Changes |
+|-----------|--------------------|-----------------------|
+| Early rotation rate | Slow rotation (similar to present day) | If early rotation was faster, atmospheric circulation patterns change and the habitable window may shorten dramatically |
+| Initial water inventory | Same order of magnitude as Earth | If initial water was significantly less than Earth's, liquid water oceans may never have formed |
+| Crustal carbon cycle efficiency | Effective carbonate-silicate cycle | If carbon cycle efficiency was low, CO₂ accumulation may have triggered the runaway greenhouse effect earlier |
+| Early solar luminosity | 70–85% of present | This is a relatively stable astronomical constraint with lower uncertainty |
+
+Some plausible parameter combinations could shorten the habitable window to a few hundred million years or less — in such a scenario, the statistical probability of complex life or civilization forming on Venus would be substantially reduced. This framework's Venus sub-model should be interpreted against this backdrop of uncertainty.
+
 As with the Mars chapter (6.1), early Venus life may have originated through two pathways: independent local abiogenesis, or natural transfer from other bodies via the Panspermia mechanism (see Section 1.5). Notably, because Venus's orbital distance to Earth is shorter (approximately 0.28 AU at closest approach), the efficiency of interplanetary meteoritic transfer may be higher than that of the Mars–Earth pathway, giving panspermia a higher prior probability in the Venus scenario.
 
 ### 6b.2 Civilization Formation Time Window
@@ -677,6 +746,19 @@ If a civilization possesses:
 Then permanent atmospheric habitation does not violate known physical laws.
 
 The unique derivation value of this model: it provides a civilization survival form that neither the Mars nor Earth hypotheses can cover — a **floating civilization**. In this form, a civilization leaves no solid surface remnants whatsoever, rendering it completely invisible in the archaeological sense.
+
+**Open Questions on Energy Feasibility:**
+
+The atmospheric habitation model faces more stringent energy constraints than underground or undersea models:
+
+| Energy Option | Theoretical Feasibility | Engineering Constraints |
+|--------------|------------------------|------------------------|
+| Atmospheric chemical gradient harvesting | Low energy density (~10⁰–10¹ W/m²) | Sufficient only for basic metabolism; insufficient to support civilization-level activity |
+| Solar energy (above cloud layer) | Medium (Venus orbital solar constant ~2600 W/m²) | Must penetrate sulfuric acid cloud layers; efficiency significantly attenuated |
+| Nuclear fusion | Highest energy density | Reactor mass conflicts with buoyancy budget — even miniaturized, D-T reactors (including shielding and breeding blanket) may have minimum masses exceeding the payload capacity of buoyant structures |
+| Wind energy (atmospheric super-rotation) | Medium | Venus upper atmosphere super-rotation wind speeds ~100 m/s can provide mechanical energy, but require large structures |
+
+This energy dilemma is a key unresolved constraint in the Venus atmospheric habitation model. If future materials science cannot reduce fusion reactor mass to a range bearable by buoyant structures, then the technological feasibility of atmospheric habitation civilization will depend on whether a combination of low-energy-density options (chemical gradient + solar + wind) is sufficient to sustain civilization activity — this is an open question requiring quantitative analysis.
 
 ### 6b.5 Venus–Earth Migration Theory
 
@@ -953,6 +1035,20 @@ This implies that life on Earth may possess two simultaneous layers of origin:
 - **Biological level**: A product of natural panspermia.
 - **Civilizational level**: A node within a cross-galactic deployment project.
 
+**Distinction Criteria for the Two Tracks:**
+
+If biology or biological fossils are discovered on Mars, Venus, or other celestial bodies in the future, distinguishing natural panspermia from directed migration will become a core scientific question. Possible criteria include:
+
+| Criterion | Natural Panspermia Expected | Directed Migration Expected |
+|-----------|---------------------------|---------------------------|
+| Genetic code | Shares basic biochemical systems with Earth life (if homologous), or completely independent system (if independent origin) | May contain traces of artificial gene editing (non-natural gene arrangements, synthetic sequences, redundancy check structures) |
+| Isotope ratios | Consistent with the natural nucleosynthesis pattern of the source body | May contain non-natural isotope ratios (products of artificial separation or enrichment) |
+| Biochemical complexity | Consistent with evolutionary gradient (gradual simple → complex record) | May exhibit sudden appearance of high complexity in the geological record (no gradual intermediate stages) |
+| Spatial distribution | Random or distributed along impact debris dispersal trajectories | May exhibit non-random distribution patterns (concentrated at specific habitable sites) |
+| Accompanying materials | Natural rock matrix | May be accompanied by non-natural materials (anomalous alloys, nanostructures) |
+
+This criteria table is only a preliminary framework; actual distinction may require cross-comparison of multiple criteria. No single criterion is sufficient to definitively distinguish between the two pathways.
+
 ## XI. Planetary-Level Severance & Civilization Reset Cycles
 
 ### 11.1 Cosmic-Scale Severance Mechanisms
@@ -997,6 +1093,15 @@ After civilizational severance, information survival follows a hierarchical stru
 
 Human DNA also contains incompletely understood "genetic bottleneck" events (e.g., the Toba supervolcano eruption approximately 74,000 years ago and the contemporaneous genetic bottleneck event [36] (the causal link between the two remains debated; the bottleneck may instead stem from founder effects during the Out-of-Africa migration)). These bottlenecks may mark temporal nodes of civilization reset.
 
+**Competing Hypotheses Statement:** The structural similarity of global myths admits multiple non-mutually-exclusive explanatory models, and this framework does not reject any of them:
+
+1. **Cognitive universality hypothesis** (modern extension of Jungian archetype theory) — the shared neural architecture of the human brain naturally produces similar narrative structures.
+2. **Common natural experience hypothesis** — global natural disasters such as floods, volcanoes, and earthquakes produce parallel narratives in independent cultures.
+3. **Cultural diffusion hypothesis** — cultural contact along early human migration routes propagated core narrative motifs.
+4. **Civilization severance encoding hypothesis** (proposed by this framework) — structural similarities reflect compressed memories of the same one or more civilization severance events.
+
+The above hypotheses carry equal prior weight at the current level of evidence. This framework proposes the fourth hypothesis as a supplement, not a replacement for the first three. Distinguishing among these hypotheses requires evidence independent of mythology itself (e.g., contemporaneous anomalies in the geological record, non-natural genetic markers in ancient DNA, etc.).
+
 ### 11.4 Mars Phase: Possible Early Deployment Node
 
 Re-examining the Mars civilization hypothesis from Part IV, Chapter VI within the cross-galactic deployment framework:
@@ -1036,7 +1141,7 @@ Observations supporting this inference:
 - **The anomalous acceleration of human civilization**: From the agricultural revolution to space travel in approximately 12,000 years — on cosmic timescales, this is virtually explosive.
 - **Genetic bottleneck events**: Multiple episodes in human history where the population crashed to extremely small numbers.
 - **Structural similarities in cross-cultural mythology**: Themes of "lost civilizations," "departing gods," and "great floods" appear independently across the globe.
-- **The over-engineering of the brain**: The computational capacity of the human brain far exceeds basic survival requirements — an anomaly under natural selection, unless the brain was designed (or selected) for more complex tasks.
+- **Rapid stepwise expansion of cognitive capacity**: Human brain volume approximately tripled over ~2 million years (*Homo habilis* → *Homo sapiens*). Mainstream evolutionary explanations (social intelligence hypothesis, language co-evolution, cultural ratchet effect, etc.) already provide multi-factor models. However, within the cross-galactic deployment framework, an additional non-mutually-exclusive speculation is: if Earth received external biological seeding, the introduced genetic material may have already contained gene combinations with high cognitive potential, making the substrate of natural selection more favorable for rapid cognitive expansion. This speculation does not replace evolutionary explanations but is superimposed upon them.
 
 ## XII. Human Mission Positioning
 
@@ -1131,7 +1236,15 @@ The ongoing Seabed 2030 project [25] will continue to expand global seabed mappi
 
 **Determination criterion**: If Mars and lunar subsurface exploration reveals no artificial structures, then relevant base models can be weakened.
 
-### 13.7 Venus Atmospheric & Surface Exploration
+### 13.7 Interstellar Object Observation
+
+- **Interstellar object spectral and orbital analysis** — Conducting spectral, orbital, and non-gravitational acceleration analysis of interstellar objects entering the solar system (e.g., 1I/'Oumuamua, 2I/Borisov), searching for non-natural signatures.
+- **Vera Rubin Observatory (LSST)** — Expected to detect dozens of interstellar objects per year beginning in 2025, dramatically expanding the sample size.
+- **Interstellar object intercept missions** — Rapid intercept mission concepts such as ESA Comet Interceptor could enable close-range observation or even sampling of interstellar objects.
+
+**Determination criterion**: If large samples of interstellar objects all exhibit spectral and orbital characteristics consistent with natural bodies, then the prior probability of the Von Neumann probe model (Section 4.7) should be adjusted downward. Conversely, if any interstellar object exhibits features unexplainable by natural processes (anomalous albedo, non-gravitational acceleration without cometary activity, anomalous shape, etc.), further investigation is warranted.
+
+### 13.8 Venus Atmospheric & Surface Exploration
 
 - **Venus atmospheric chemical anomaly analysis** — Searching for non-equilibrium chemical species in the atmosphere, particularly molecules that should not stably exist under Venus atmospheric conditions (e.g., phosphine, Greaves et al., 2020 [24]).
 - **Long-term Venus upper atmosphere monitoring** — Using orbiters to search for anomalous structures, regular movement patterns, or non-natural reflective features at 50–60 km altitude.
@@ -1182,7 +1295,7 @@ The overall model progressively shifts from narrative-level to engineering- and 
 
 [4] Petigura, E. A., Howard, A. W. & Marcy, G. W. (2013). "Prevalence of Earth-size planets orbiting Sun-like stars." *Proceedings of the National Academy of Sciences*, 110(48), 19273–19278. https://doi.org/10.1073/pnas.1319909110
 
-[5] Rivilla, V. M. et al. (2025). "Interstellar glycine detected toward a solar-type protostar IRAS 16293-2422B." Research Square preprint. https://doi.org/10.21203/rs.3.rs-6926668/v1
+[5] Rivilla, V. M. et al. (2025). "Interstellar glycine detected toward a solar-type protostar IRAS 16293-2422B." Research Square preprint. https://doi.org/10.21203/rs.3.rs-6926668/v1 (Note: This DOI may resolve to a first author of Quan rather than Rivilla; this is a preprint and citation information may change upon formal publication.)
 
 [6] Glavin, D. P. et al. (2021). "Extraterrestrial amino acids and L-enantiomeric excesses in the CM2 carbonaceous chondrites Aguas Zarcas and Murchison." *Meteoritics & Planetary Science*, 56, 148–173. https://doi.org/10.1111/maps.13451
 
@@ -1220,13 +1333,13 @@ The overall model progressively shifts from narrative-level to engineering- and 
 
 [23] NASA NSSDCA — Venera 13 Descent Craft. https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-106D
 
-[24] Greaves, J. S. et al. (2021). "Phosphine gas in the cloud decks of Venus." *Nature Astronomy*, 5, 655–664. https://doi.org/10.1038/s41550-020-1174-4
+[24] Greaves, J. S. et al. (2020/2021). "Phosphine gas in the cloud decks of Venus." *Nature Astronomy*, 5, 655–664. https://doi.org/10.1038/s41550-020-1174-4 (Online first 2020, print 2021)
 
 [25] Seabed 2030 — The Nippon Foundation–GEBCO Seabed 2030 Project. https://seabed2030.org/
 
-[26] Schmidt, G. A. & Frank, A. (2018). "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?" *International Journal of Astrobiology*, 18(2), 142–150. https://doi.org/10.1017/S1473550418000095
+[26] Schmidt, G. A. & Frank, A. (2019). "The Silurian hypothesis: would it be possible to detect an industrial civilization in the geological record?" *International Journal of Astrobiology*, 18(2), 142–150. https://doi.org/10.1017/S1473550418000095 (Online first 2018, print 2019)
 
-[27] Deep-sea direct observation coverage data source: 2025 *Science Advances* study.
+[27] Deep-sea direct observation coverage data source: 2025 *Science Advances* study. (Note: Full bibliographic information pending — specific authors, volume, pages, and DOI to be confirmed.)
 
 [28] NASA GRACE-FO (Gravity Recovery and Climate Experiment Follow-On). https://gracefo.jpl.nasa.gov/
 
@@ -1257,3 +1370,9 @@ The overall model progressively shifts from narrative-level to engineering- and 
 [41] Kennett, J. P. & Stott, L. D. (1991). "Abrupt deep-sea warming, palaeoceanographic changes and benthic extinctions at the end of the Palaeocene." *Nature*, 353, 225–229. https://doi.org/10.1038/353225a0
 
 [42] Worth, R. J., Sigurdsson, S. & House, C. H. (2013). "Seeding life on the moons of the outer planets via lithopanspermia." *Astrobiology*, 13(12), 1155–1165. https://doi.org/10.1089/ast.2013.1028
+
+[43] Bostrom, N. (2002). *Anthropic Bias: Observation Selection Effects in Science and Philosophy.* Routledge. https://doi.org/10.4324/9780203953464
+
+[44] Meech, K. J. et al. (2017). "A brief visit from a red and extremely elongated interstellar asteroid." *Nature*, 552, 378–381. https://doi.org/10.1038/nature25020
+
+[45] Ivezić, Ž. et al. (2019). "LSST: From Science Drivers to Reference Design and Anticipated Data Products." *The Astrophysical Journal*, 873(2), 111. https://doi.org/10.3847/1538-4357/ab042c

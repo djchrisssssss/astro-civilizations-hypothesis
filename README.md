@@ -25,15 +25,15 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 
 ## Structure Overview
 
-- **0. Methodology & Scope** — Problem definition, falsifiability, and statistical cosmology framework
-- **Part I — Foundations of Cosmic Life Diffusion** — Stellar formation, habitable zones, extremophiles, lithopanspermia
-- **Part II — Civilization Evolution & Technology Thresholds** — Energy hierarchy, material breakthroughs, compact fusion, metamaterials
-- **Part III — Structural Classification of ET Events** — 7-source classification model for contemporary extraterrestrial events
-- **Part IV — Civilization Existence Models** — Extra-solar observers, ancient Martian civilization, ancient Earth civilization
-- **Part V — Base Engineering & Stealth Matrix** — Site selection, energy self-sufficiency, EM/thermal suppression
-- **Part VI — Cognitive Deconstruction** — "Alien" as semantic compression, multi-source model ensemble
+- **0. Methodology & Scope** — Problem definition, falsifiability, observation selection effects (Anthropic Principle), epistemological layering, and statistical cosmology framework
+- **Part I — Foundations of Cosmic Life Diffusion** — Stellar formation, habitable zones, extremophiles, lithopanspermia, abiogenesis probability constraint (§1.6)
+- **Part II — Civilization Evolution & Technology Thresholds** — Energy hierarchy, fusion fuel cycle constraints, material breakthroughs, material system integration limits (§3.3.4), compact fusion, metamaterials
+- **Part III — Structural Classification of ET Events** — 7-source classification model for contemporary extraterrestrial events, SETI directed communication limitations
+- **Part IV — Civilization Existence Models** — Extra-solar observers, ancient Martian civilization, ancient Earth civilization, panspermia vs directed migration distinction criteria
+- **Part V — Base Engineering & Stealth Matrix** — Site selection, energy self-sufficiency, EM/thermal suppression, Venus atmospheric energy budget & parameter sensitivity analysis
+- **Part VI — Cognitive Deconstruction** — "Alien" as semantic compression, multi-source model ensemble, competing hypotheses for cross-cultural myths
 - **Part VII — Cross-Galactic Mission Architecture & Human Positioning** — Deployment logic, civilization reset cycles, memory compression, human mission positioning
-- **Part VIII — Verifiable Observation Pathways** — Subsurface imaging, deep-sea scanning, gravitational anomaly monitoring
+- **Part VIII — Verifiable Observation Pathways** — Subsurface imaging, deep-sea scanning, gravitational anomaly monitoring, interstellar object spectral analysis (§13.7)
 
 ---
 
