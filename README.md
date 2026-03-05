@@ -23,6 +23,23 @@ A structured hypothesis framework exploring the statistical foundations of cosmi
 
 ---
 
+## Verification Summary
+
+All factual claims and references have been independently verified using computational tools and public databases.
+
+| Category | Verified | Method |
+|----------|----------|--------|
+| Astrophysical claims | 13/13 | `astropy` (Planck18 cosmology) |
+| Biological claims | 7 | PubMed / NCBI literature review |
+| Physics & engineering claims | 13 | Peer-reviewed literature |
+| DOI references | 37/37 | CrossRef REST API |
+| URL-only references | 17 | Institutional source catalog |
+| **Total references** | **54** | |
+
+> Full methodology, per-claim tables, and complete DOI audit results are documented in the [Verification Report](./markdown/en/VERIFICATION-REPORT.md).
+
+---
+
 ## Structure Overview
 
 - **0. Methodology & Scope** — Problem definition, falsifiability, observation selection effects (Anthropic Principle), epistemological layering, and statistical cosmology framework
