@@ -4,8 +4,7 @@
 
 **Cosmic Diaspora Hypothesis**
 
-<!-- TODO: Zenodo DOI 上傳後替換 -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18965614.svg)](https://doi.org/10.5281/zenodo.18965614)
 
 一個結構化的假說框架，探討宇宙生命的統計基礎、文明演化的能量與材料門檻，以及外星現象的多來源分類模型——以物理學、工程可行性與可證偽推理為基礎。
 
